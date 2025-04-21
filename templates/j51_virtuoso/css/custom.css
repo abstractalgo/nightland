@@ -1,0 +1,825 @@
+/*----------------------------------------------------------------------------*/
+/* Custom CSS */
+/*----------------------------------------------------------------------------*/
+
+/* The header color is #26706b (a dark blue-green) and was chosen to compliment
+   the lettering in Tais Teng's logo. */
+
+div[itemprop="blogPost"] {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+/* This isn't positioned properly and I don't know how to adjust it yet. Usual
+   stuff doesn't work. Not sure it can be made to work the way I need it to.
+   I've only so far seen it positioned with absolute and top.
+   
+div[itemprop="blogPost"]:after {
+  content:url("../images/typo/hr.png");
+} */
+
+
+/* Hide the Home item on the hornav menu, since we'll use the header image
+   for that. */
+
+/* #hornav li.item-101 {
+    display: none;
+    Bad idea to turn this off for accessibility reasons, so I unhid it.
+}*/
+
+
+body {
+  background: #000000;
+  background-image: url(../../../images/backgrounds/nightbg.jpg);
+}
+
+#body_bg {
+  background-color: transparent;
+}
+
+content_background {
+  color: #000000;
+}
+
+.skip-nav {
+    color: black;
+    font-size: smaller;
+}
+
+.to-change {
+    color: crimson;
+    font-weight: 900;
+}
+
+.showcase {
+  background-color: black;
+}
+
+.logo {
+/*  padding-bottom: 32px; */
+  background-color: black;
+/*  border: 2px solid yellow; */
+}
+
+#logo-para {
+  margin-top: -30px;
+  /* padding: 0; */
+}
+
+
+#site-epigraph {
+  font-size: smaller;
+  color: #bbbbcc; /* light grey with blue tint */
+  text-align: center;
+  margin-top: -1em;
+}
+
+.maincontent {
+  padding: 2em;
+}
+
+
+#copyright {
+  color: #779988; /* a dim green */
+}
+
+.centered-para {
+   text-align: center;
+}
+
+h1 {
+  font-size:2.5em;
+  font-family: Artifika;
+  color: #3b9c9c; /* dark turquoise */
+  line-height: 1em;
+}
+
+h1.logo-text {
+  line-height: .55em;
+/*  border: 2px solid red; */
+}
+
+h1.logo-text a {
+  margin-right: 0em;
+}
+
+
+
+h2 {
+/*  margin: .5em -1em 0em 0em; */
+  margin-top: .5em;
+  margin-bottom: 0em;
+}
+
+.subheading-category {
+  font-size: 1.6em;
+  color: #3b9c9c; /* dark turquoise */
+}
+
+
+
+h3 {
+  font-family: Artifika;
+  font-size: 1.3em;
+}
+
+
+h4 {
+  color: #555566;
+  font-size: 1.2em;
+  font-family: Artifika;
+}
+
+h5 {
+  color: #555566;
+  font-family: Artifika;
+  font-size: .97em;
+  margin-bottom: 1.2em;
+}
+
+dl.article-info {
+  font-size: 16px;
+  line-height: 3em;
+  clear: both;
+}
+
+h2.story-teaser-title {
+  text-align: center;
+}
+
+h3.main-story-subtitle {
+  text-align: center;
+}
+
+.memorial-title {
+  text-align: center;
+}
+
+h4.emphatic {
+  font-style: italic;
+}
+
+.centered-note {
+  text-align: center;
+}
+
+.strong {
+  font-weight: bold;
+}
+
+.inline-header {
+  font-weight: bold;
+}
+
+.story-thumb, .article-thumb, .multimedia-thumb {
+  border-style: outset;
+  border-width: 3px;
+  border-color: #e3e4fa;
+  margin-right: 1em;
+/*  margin-bottom: 1em; */
+  float: left;
+}
+
+img.float-left {
+  clear: left;
+  border-style: ridge;
+  border-width: 3px;
+  border-color: #ffefdf;
+  margin-right: 1.5em;
+  float: left;
+  max-width: 60%;
+}
+
+img.float-right {
+  border-style: ridge;
+  border-width: 3px;
+  border-color: #ffefdf;
+  margin-left: 1.5em;
+  float: right;
+  max-width: 60%;
+}
+
+img.no-float {
+  border-style: ridge;
+  border-width: 3px;
+  border-color: #ffefdf;
+  margin: 1.5em;
+  max-width: 60%;
+}
+
+img.float-left-borderless {
+  clear: left;
+  margin-right: 1.5em;
+  float: left;
+  max-width: 60%;
+}
+
+img.float-left-blog-illo {
+  clear: left;
+  margin-right: 1.5em;
+  margin-top: .5em;
+  margin-bottom: .5em;
+  float: left;
+  max-width: 60%;
+}
+
+img.float-right-blog-illo {
+  clear: right;
+  margin-left: 1.5em;
+  margin-top: .5em;
+  margin-bottom: .5em;
+  float: right;
+  max-width: 60%;
+}
+
+img.margin-bottom {
+  margin-bottom: 4em;
+}
+
+img.story-header {
+  display: block;
+  max-width: 90%;
+  margin: 3em auto;
+  padding: 1em;
+/*  border-color:#e3e4fa; */
+  border-color: #ffefdf;
+  border-width:4px;
+  border-style:ridge;
+/*  background-color: #ffefdf; */
+  background-color: #f7f5ee;
+  border-radius: 5px;
+ -moz-border-radius: 5px;
+ -webkit-border-radius: 5px;
+}
+
+.centered-framed {
+  display: block;
+  max-width: 90%;
+  margin: 2em auto;
+  border-color: #ffefdf;
+  border-width: 2px;
+  border-style:ridge;
+  border-radius: 5px;
+}
+  
+
+h3.story-teaser {
+  margin-bottom: 1em;
+  margin-top: 0em;
+  padding-top: -1em;
+}
+
+h3 a {
+  color: #6b686e;
+}
+
+h4.dedication {
+  text-align: center;
+}
+
+p.story-teaser {
+  margin-top: -1em;
+  min-height: 4.5em;
+}
+
+p.article-teaser {
+  margin-top: -.5em;
+}
+
+div.story-intro {
+/*  float: left; */
+}
+
+.readon, .readmore a {
+  clear: both;
+  display: block;
+  width: 10em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 5px;
+  margin-right: 5px;
+  float: right;
+}
+
+.pagination {
+  margin-top: 1.5em;
+}
+
+h2.main-story-title {
+  text-align: center;
+  font-size: xx-large;
+  line-height: 2.5em;
+}
+
+h3.main-story-aux {
+  font-family: Artifika;
+  text-align: center;
+  font-size: .95em;
+  padding-top: .5em;
+}
+
+h2.main-story-author {
+  text-align: center;
+  line-height: 2.5em;
+  padding-bottom: 1em;
+}
+
+hr.scene-break {
+  margin: 4em auto;
+}
+
+hr.poetry-break {
+  margin: 4em auto;
+}
+
+hr.section-break {
+  margin: 4em auto;
+}
+
+hr.spoiler-break {
+  margin: 4em auto;
+}
+
+hr.major-section-break {
+  margin: 2.5em auto;
+}
+
+p.article-copyright {
+  text-align: center;
+ }
+
+p.related-story {
+  text-align: center;
+}
+
+p.story-part {
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+p.story-copyright {
+  text-align: center;
+}
+
+p.story-advisory {
+  text-align: center;
+}
+
+p.spoiler-warning {
+  text-align: center;
+  color: #e42217;
+  font-weight:semi-bold;
+  margin: 3em auto;
+  width: 16em;
+}
+
+span.spoiler-warning {
+  color: #e42217;
+  font-weight:semi-bold;
+}
+
+span.to-change {
+    color: crimson;
+    font-weight: bold;
+}
+
+blockquote p {
+  padding-left: 0;
+}
+
+div.boxed {
+  border: 1px solid #ebdde2;
+  background-color: #fff5ee;
+  max-width: 450px;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+div.book-entry {
+}
+
+.story-set-apart {
+  font-style: italic;
+}
+
+.set-apart {
+  font-style: italic;
+}
+
+.telepathy {
+  font-style: italic;
+}
+
+.ship-name {
+  font-style: italic;
+}
+
+.book-title {
+  font-style: italic;
+}
+
+.magazine-title {
+  font-style: italic;
+}
+
+.comic-title {
+  font-style: italic;
+}
+
+.music-title {
+  font-style:italic;
+}
+
+.movie-title {
+  font-style:italic;
+}
+
+.word-as-such {
+  font-style: italic;
+}
+
+.foreign-word {
+  font-style: italic;
+}
+
+.emphasis {
+  font-style: italic;
+}
+
+.emphasis-in-italics {
+  font-style: normal;
+}
+
+.quote {
+  margin-top: 1em;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.poetry-quote {
+  font-style: italic;
+  margin-left: +2em;
+}
+
+.quote-tagline {
+  text-align: center;
+  padding-left: 1em;
+  text-indent: -1em;
+  padding-bottom: 1em;
+}
+
+.epigraph {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  margin-left: 20%;
+  margin-right: 20%;
+  text-align: center;
+}
+
+.quote-origin {
+  font-style: italic;
+}
+
+.thought {
+  font-style: italic;
+}
+
+.poetry-header {
+  margin-left: auto;
+  margin-right: auto;
+  width: 16em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.poetry-header-2 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 22em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.poetry-header-tagline {
+  font-size: smaller;
+  text-align: center;
+  padding-left: 1em;
+  text-indent: -1em;
+}
+
+.webmaster-note {
+  margin-right: 3em;
+  margin-left: 3em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  font-style: italic;
+}
+
+ul.works-list {
+  list-style-type: none;
+  margin-bottom: 1.5em;
+}
+
+ul.no-bullets {
+  list-style-type: none;
+  margin-bottom: 1em;
+}
+
+ul.with-bullets {
+  list-style-type: circle;
+  text-indent: 1.5em;
+}
+
+ul.store-list {
+  list-style-type: none;
+  margin-bottom: 1em;
+}
+
+ul.file-list li {
+  text-indent: 1em;
+}
+
+
+li {
+  line-height: 1.7em;
+  margin-bottom: .5em;
+  list-style-position: inside;
+/* 
+  margin-left: 1em;
+  text-indent: -1em; 
+  These make the text look great, but they mess up the page nav. Can't use this
+  before I figure out how to limit it to body text. */
+}
+
+ol li {
+  padding-left: 1em;
+}
+
+.intro-remarks {
+  margin-right: 3em;
+  margin-left: 3em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.intro {
+  margin-right: 3em;
+  margin-left: 3em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  text-size: smaller;
+  font-style: italic;
+}
+
+.project-desc {
+  font-weight: bold;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.items-row {
+  margin-bottom: 5px !important;
+  padding-bottom: 25px;
+}
+
+
+/* To God
+   The Watcher Speaks to the Eye-Beam */
+
+div.narrow-text-27 {
+  max-width: 27em;
+  padding-left: 1em;
+  padding-right: 1em;
+  margin: 1.5em auto;
+}
+
+div.narrow-text-23 {
+  max-width: 23em;
+  padding-left: 1em;
+  padding-right: 1em;
+  margin: 1.5em auto;
+}
+
+
+/* Black Irises
+   Little Rituals
+   Tongiv the Seer */
+
+.center-poem-23em {
+  max-width: 23em;
+  margin: 2.5em auto;
+  padding-left: 3em;
+  padding-right: 3em;
+}
+
+.poem-near-left {
+  position: relative;
+  left: -2em;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.poem-near-right {
+  position: relative;
+  left: 4em;
+  margin-top: 3em;
+}
+
+.poem-far-right {
+  position: relative;
+  left: 8em;
+  margin-top: 3em;
+}
+
+.poem-far-left {
+  position: relative;
+  left: -5em;
+  margin-top: 3em;
+}
+
+/* Tongiv the Seer */
+
+.set-apart-near-left {
+  position: relative;
+  left: -2em;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  font-style: italic;
+}
+
+.high-top-margin {
+  margin-top: 5em;
+}
+
+div.story-table th {
+  text-align: left;
+}
+
+div.story-table tr {
+  border-bottom: 1px solid lavender;
+}
+
+div.story-table tr .titlerow {
+  border-bottom: 2px solid green;
+}
+
+div.story-table td {
+  padding-right: 2em;
+  padding-top: 1em;
+}
+
+.clearfix {
+  padding-top: .5em;
+}
+
+#timeline {
+  display: table;
+  color: ivory;
+  background: linear-gradient(deepskyblue 7%, cadetblue, sienna 25%, darkred, black 45%)
+}
+
+td {
+  padding: .75em;
+}
+
+.tl-header {
+}
+
+.tl-antiquity {
+  height: 15em;
+}
+
+.tl-light {
+}
+
+.tl-millions-row {
+  min-height: 50em;
+}
+
+.tl-half-millions-row {
+  min-height: 25em;
+}
+
+.tl-billions-row {
+  min-height: 100em;
+}
+
+.tl-hundred-billions-row {
+  min-height: 200em;
+}
+
+.tl-era {
+  display: table-cell;
+  padding: .75em;
+  padding-top: 1.5em;
+  font-family: Artifika;
+  font-size: 1.3em;
+  color: white;
+}
+
+.tl-desc {
+  display: table-cell;
+  padding: .75em;
+}
+
+.tl-date {
+  display: table-cell;
+  padding: .75em;
+  width: 10em;
+}
+
+.tl-stories {
+  display: table-cell;
+  padding: .75em;
+  width: 15em;
+}
+
+#timeline a {
+  color: yellow;
+}
+
+table.game-stats {
+  border: 1px solid gainsboro;
+}
+
+table.game-stats th {
+  border: 1px solid gainsboro;
+  font-weight: bold;
+}
+
+#argument {
+  text-align: center;
+}
+
+#argument h3 {
+  color: #5cd1ac;
+  font-size: 1.25em;
+}
+
+#argument h4 {
+  color: #5cd1ac;
+  font-size: 1.05em;
+}
+
+.top-3 {
+ color: #cccccc; 
+}
+
+.top-3 a {
+  color: #77ddbb; /* or a light purple #bf9fff; */
+}
+
+
+#container_slideshow {
+  margin-bottom: -1em;
+}
+
+
+#redoubt-front-page {
+  padding: 1.5em;
+  border-style: ridge;
+  border-width: 3px;
+  border-color: #ffefdf;
+  margin: 1.5em;
+}
+
+p.redoubt-image-wrapper {
+  text-align: center;
+}
+
+.article-info {
+   
+}
+
+h2.igallery_title {
+  color: #3b9c9c; /* dark turquoise */
+  font-size: 2.2em;
+}
+
+h2.memorial {
+  color: #3b9c9c; /* dark turquoise */
+  font-size: 2.2em;
+  text-align: center;
+  margin-bottom: .5em;
+}
+
+.flush-right {
+  text-align: right;
+}
+
+.feed {
+  text-align: center;
+}
+
+/* Not working yet
+
+h4.night-speech-poster {
+  padding-bottom: -2em;   
+}
+
+*/
+
+hr.post-separator {
+    height: 80px;
+}

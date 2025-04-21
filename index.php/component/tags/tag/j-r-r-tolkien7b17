@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">The Night Land - The Night Land</title>
+	<subtitle type="text">The Weird Fiction of William Hope Hodgson</subtitle>
+	<link rel="alternate" type="text/html" href="https://nightland.website"/>
+	<id>https://nightland.website/index.php/component/tags/tag/j-r-r-tolkien</id>
+	<updated>2025-04-21T01:11:56+00:00</updated>
+	<author>
+		<name>The Night Land</name>
+		<email>coady.kate@gmail.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://nightland.website/index.php/component/tags/tag/j-r-r-tolkien?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Love in the Night</title>
+		<link rel="alternate" type="text/html" href="https://nightland.website/index.php/background/essays/andy-robertson-s-night-land-essays/173-love-in-the-night"/>
+		<published>2015-07-02T21:27:04+00:00</published>
+		<updated>2015-07-02T21:27:04+00:00</updated>
+		<id>https://nightland.website/index.php/background/essays/andy-robertson-s-night-land-essays/173-love-in-the-night</id>
+		<author>
+			<name>Kate Coady</name>
+		</author>
+		<summary type="html">&lt;h3 class=&quot;story-teaser&quot;&gt;What was Hodgson Attempting in his Treatment of the Erotic in THE NIGHT LAND and THE HOUSE ON THE BORDERLAND?&lt;/h3&gt;
+&lt;h3 class=&quot;story-teaser&quot;&gt;By &lt;a href=&quot;https://nightland.website/index.php/about/authors-and-artists/107-andy-robertson&quot;&gt;Andy Robertson&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;story-intro&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://nightland.website/index.php/background/essays/173-love-in-the-night&quot;&gt;&lt;img class=&quot;story-thumb&quot; src=&quot;https://nightland.website/images/thumbs/fabian-x-and-naani-thumb.jpg&quot; alt=&quot;A man and a woman embracing; drawing in blue and white&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;article-teaser&quot;&gt;The erotic aspects of Hodgson's work have been universally and justly abused. What on earth was he trying to do?&lt;/p&gt;
+&lt;/div&gt;
+</summary>
+		<content type="html">&lt;h3 class=&quot;story-teaser&quot;&gt;What was Hodgson Attempting in his Treatment of the Erotic in THE NIGHT LAND and THE HOUSE ON THE BORDERLAND?&lt;/h3&gt;
+&lt;h3 class=&quot;story-teaser&quot;&gt;By &lt;a href=&quot;https://nightland.website/index.php/about/authors-and-artists/107-andy-robertson&quot;&gt;Andy Robertson&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;story-intro&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://nightland.website/index.php/background/essays/173-love-in-the-night&quot;&gt;&lt;img class=&quot;story-thumb&quot; src=&quot;https://nightland.website/images/thumbs/fabian-x-and-naani-thumb.jpg&quot; alt=&quot;A man and a woman embracing; drawing in blue and white&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;article-teaser&quot;&gt;The erotic aspects of Hodgson's work have been universally and justly abused. What on earth was he trying to do?&lt;/p&gt;
+&lt;/div&gt;
+</content>
+		<category term="Love in the Night" />
+	</entry>
+</feed>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>The Night Land - The Night Land</title>
+		<description><![CDATA[The Weird Fiction of William Hope Hodgson]]></description>
+		<link>https://nightland.website/index.php/component/tags/tag/100</link>
+		<lastBuildDate>Mon, 21 Apr 2025 01:12:07 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://nightland.website/index.php/component/tags/tag/dying-earth?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>coady.kate@gmail.com (The Night Land)</managingEditor>
+		<item>
+			<title>The Starcombers</title>
+			<link>https://nightland.website/index.php/background/essays/andy-robertson-s-night-land-essays/196-the-starcombers</link>
+			<guid isPermaLink="true">https://nightland.website/index.php/background/essays/andy-robertson-s-night-land-essays/196-the-starcombers</guid>
+			<description><![CDATA[<h3 class="story-teaser"><a href="https://nightland.website/index.php/background/essays/196-the-starcombers">A NIGHT-LAND–Inspired Story by Edmond Hamilton</a></h3>
+<h3 class="story-teaser">By <a href="https://nightland.website/index.php/about/authors-and-artists/107-andy-robertson">Andy Robertson</a></h3>
+<div class="story-intro"><a href="https://nightland.website/index.php/background/essays/196-the-starcombers"><img class="story-thumb" src="https://nightland.website/images/thumbs/starcombers-cover-artist-unknown-thumb.jpg" alt="starcombers-cover-artist-unknown" /></a>
+<p class="article-teaser">Hamilton's interesting short novella "The Starcombers" contains elements clearly based on <span class="book-title">The Night Land.</span></p>
+</div>
+]]></description>
+			<category>The Starcombers</category>
+			<pubDate>Tue, 14 Jul 2015 17:19:58 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

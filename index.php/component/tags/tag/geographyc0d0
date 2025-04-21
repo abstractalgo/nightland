@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>The Night Land - The Night Land</title>
+		<description><![CDATA[The Weird Fiction of William Hope Hodgson]]></description>
+		<link>https://nightland.website/index.php/component/tags/tag/83</link>
+		<lastBuildDate>Mon, 21 Apr 2025 01:08:48 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://nightland.website/index.php/component/tags/tag/geography?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>coady.kate@gmail.com (The Night Land)</managingEditor>
+		<item>
+			<title>The Background of the Night Land</title>
+			<link>https://nightland.website/index.php/background/essays/190-the-background-of-the-night-land</link>
+			<guid isPermaLink="true">https://nightland.website/index.php/background/essays/190-the-background-of-the-night-land</guid>
+			<description><![CDATA[<h3 class="story-teaser">An Assortment of Ideas</h3>
+<h3 class="story-teaser">By <a href="https://nightland.website/index.php/about/authors-and-artists/191-don-muchow">Don Muchow</a></h3>
+<div class="story-intro">
+<p><img class="story-thumb" src="https://nightland.website/images/thumbs/nasa-satellite-public-domain-thumb.jpg" alt="NASA satellite view of Earth's geological features" /></p>
+<p class="article-teaser">A combination of known planetary geology, climatology, evolution, etc. Conjectures range about 20-50 million years into the future.</p>
+</div>
+]]></description>
+			<category>The Background of the Night Land</category>
+			<pubDate>Sat, 11 Jul 2015 18:59:27 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

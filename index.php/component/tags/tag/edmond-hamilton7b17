@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">The Night Land - The Night Land</title>
+	<subtitle type="text">The Weird Fiction of William Hope Hodgson</subtitle>
+	<link rel="alternate" type="text/html" href="https://nightland.website"/>
+	<id>https://nightland.website/index.php/component/tags/tag/edmond-hamilton</id>
+	<updated>2025-04-21T01:12:02+00:00</updated>
+	<author>
+		<name>The Night Land</name>
+		<email>coady.kate@gmail.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://nightland.website/index.php/component/tags/tag/edmond-hamilton?format=feed&amp;type=atom"/>
+	<entry>
+		<title>The Starcombers</title>
+		<link rel="alternate" type="text/html" href="https://nightland.website/index.php/background/essays/andy-robertson-s-night-land-essays/196-the-starcombers"/>
+		<published>2015-07-14T17:19:58+00:00</published>
+		<updated>2015-07-14T17:19:58+00:00</updated>
+		<id>https://nightland.website/index.php/background/essays/andy-robertson-s-night-land-essays/196-the-starcombers</id>
+		<author>
+			<name>Kate Coady</name>
+		</author>
+		<summary type="html">&lt;h3 class=&quot;story-teaser&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/background/essays/196-the-starcombers&quot;&gt;A NIGHT-LAND–Inspired Story by Edmond Hamilton&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 class=&quot;story-teaser&quot;&gt;By &lt;a href=&quot;https://nightland.website/index.php/about/authors-and-artists/107-andy-robertson&quot;&gt;Andy Robertson&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;story-intro&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/background/essays/196-the-starcombers&quot;&gt;&lt;img class=&quot;story-thumb&quot; src=&quot;https://nightland.website/images/thumbs/starcombers-cover-artist-unknown-thumb.jpg&quot; alt=&quot;starcombers-cover-artist-unknown&quot; /&gt;&lt;/a&gt;
+&lt;p class=&quot;article-teaser&quot;&gt;Hamilton's interesting short novella &quot;The Starcombers&quot; contains elements clearly based on &lt;span class=&quot;book-title&quot;&gt;The Night Land.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+</summary>
+		<content type="html">&lt;h3 class=&quot;story-teaser&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/background/essays/196-the-starcombers&quot;&gt;A NIGHT-LAND–Inspired Story by Edmond Hamilton&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 class=&quot;story-teaser&quot;&gt;By &lt;a href=&quot;https://nightland.website/index.php/about/authors-and-artists/107-andy-robertson&quot;&gt;Andy Robertson&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;story-intro&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/background/essays/196-the-starcombers&quot;&gt;&lt;img class=&quot;story-thumb&quot; src=&quot;https://nightland.website/images/thumbs/starcombers-cover-artist-unknown-thumb.jpg&quot; alt=&quot;starcombers-cover-artist-unknown&quot; /&gt;&lt;/a&gt;
+&lt;p class=&quot;article-teaser&quot;&gt;Hamilton's interesting short novella &quot;The Starcombers&quot; contains elements clearly based on &lt;span class=&quot;book-title&quot;&gt;The Night Land.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content>
+		<category term="The Starcombers" />
+	</entry>
+</feed>

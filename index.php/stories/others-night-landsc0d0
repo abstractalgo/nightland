@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>The Night Land - Others' Night Lands</title>
+		<description><![CDATA[The Weird Fiction of William Hope Hodgson]]></description>
+		<link>https://nightland.website/index.php/stories/others-night-lands</link>
+		<lastBuildDate>Mon, 21 Apr 2025 00:32:40 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://nightland.website/index.php/stories/others-night-lands?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>coady.kate@gmail.com (The Night Land)</managingEditor>
+		<item>
+			<title>Noise</title>
+			<link>https://nightland.website/index.php/stories/others-night-lands/65-noise</link>
+			<guid isPermaLink="true">https://nightland.website/index.php/stories/others-night-lands/65-noise</guid>
+			<description><![CDATA[<p>Elizabeth Counihan's story.</p>]]></description>
+			<author>coady.k@protonmail.com (Elizabeth Counihan)</author>
+			<category>Others' Night Lands</category>
+			<pubDate>Sun, 30 Nov 2003 13:21:09 +0000</pubDate>
+		</item>
+		<item>
+			<title>For Every Lost Tomorrow</title>
+			<link>https://nightland.website/index.php/stories/others-night-lands/243-for-every-lost-tomorrow</link>
+			<guid isPermaLink="true">https://nightland.website/index.php/stories/others-night-lands/243-for-every-lost-tomorrow</guid>
+			<description><![CDATA[<h3 class="story-teaser">By Greg Gwyther</h3>
+<div class="story-intro">
+<p><img class="story-thumb" src="https://nightland.website/images/thumbs/fabian-lesser-redoubt-thumb.jpg" alt="A man beholding a steep-sided pyramid in a dark land." /></p>
+<p class="story-teaser">She ran, heavy boots pounding the walkways, through the architecture of a waking nightmare. Eyes wide with terror, barely seeing the signs and manifestations of invading horror and imminent destruction stamped and recorded onto the walls, floors and ceilings ...</p>
+</div>
+<p class="feed-readmore"><a target="_blank" href="https://nightland.website/index.php/stories/others-night-lands/243-for-every-lost-tomorrow">Read More ...</a></p>]]></description>
+			<author>coady.k@protonmail.com (Greg Gwyther)</author>
+			<category>Others' Night Lands</category>
+			<pubDate>Sun, 27 Mar 2016 22:43:24 +0000</pubDate>
+		</item>
+		<item>
+			<title>Inside the Crown</title>
+			<link>https://nightland.website/index.php/stories/others-night-lands/274-inside-the-crown</link>
+			<guid isPermaLink="true">https://nightland.website/index.php/stories/others-night-lands/274-inside-the-crown</guid>
+			<description><![CDATA[<h3 class="story-teaser">By Robin Wyatt Dunn</h3>
+<div class="story-intro">
+<p><img class="story-thumb" src="https://nightland.website/images/thumbs/fabian-redoubt-green-thumb.jpg" alt="A man beholding a steep-sided pyramid in a dark land." /></p>
+<p class="story-teaser">Sometimes I remember being a man from before — same as the shape I have taken now, on this side of the Gate — but other times I prefer to forget.</p>
+</div>
+<p class="feed-readmore"><a target="_blank" href="https://nightland.website/index.php/stories/others-night-lands/274-inside-the-crown">Read More ...</a></p>]]></description>
+			<author>coady.k@protonmail.com (Robin Wyatt Dunn)</author>
+			<category>Others' Night Lands</category>
+			<pubDate>Tue, 13 Feb 2018 17:28:28 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

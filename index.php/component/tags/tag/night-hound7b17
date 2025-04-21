@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">The Night Land - The Night Land</title>
+	<subtitle type="text">The Weird Fiction of William Hope Hodgson</subtitle>
+	<link rel="alternate" type="text/html" href="https://nightland.website"/>
+	<id>https://nightland.website/index.php/component/tags/tag/night-hound</id>
+	<updated>2025-04-21T01:08:23+00:00</updated>
+	<author>
+		<name>The Night Land</name>
+		<email>coady.kate@gmail.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://nightland.website/index.php/component/tags/tag/night-hound?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Jane Frank's Discoveries</title>
+		<link rel="alternate" type="text/html" href="https://nightland.website/index.php/about/william-hope-hodgson/204-jane-frank-s-discoveries"/>
+		<published>2015-07-22T03:20:08+00:00</published>
+		<updated>2015-07-22T03:20:08+00:00</updated>
+		<id>https://nightland.website/index.php/about/william-hope-hodgson/204-jane-frank-s-discoveries</id>
+		<author>
+			<name>Kate Coady</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;story-intro&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://nightland.website/index.php/about/william-hope-hodgson/204-to-scraps-from-hope&quot;&gt;&lt;img class=&quot;story-thumb&quot; src=&quot;https://nightland.website/images/thumbs/jane-frank-wandering-soul-cover-thumb.jpg&quot; alt=&quot;The cover of Jane Frank's book of recovered Hodgson-related material.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;story-teaser&quot;&gt;&quot;To Scraps,&lt;br /&gt;That impudent maiden to whom I first told the ever shaping tale of The Night Land...&quot;&lt;/p&gt;
+&lt;/div&gt;
+</summary>
+		<content type="html">&lt;div class=&quot;story-intro&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://nightland.website/index.php/about/william-hope-hodgson/204-to-scraps-from-hope&quot;&gt;&lt;img class=&quot;story-thumb&quot; src=&quot;https://nightland.website/images/thumbs/jane-frank-wandering-soul-cover-thumb.jpg&quot; alt=&quot;The cover of Jane Frank's book of recovered Hodgson-related material.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;story-teaser&quot;&gt;&quot;To Scraps,&lt;br /&gt;That impudent maiden to whom I first told the ever shaping tale of The Night Land...&quot;&lt;/p&gt;
+&lt;/div&gt;
+</content>
+		<category term="Jane Frank's Discoveries" />
+	</entry>
+	<entry>
+		<title>Parting</title>
+		<link rel="alternate" type="text/html" href="https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/2-parting"/>
+		<published>2015-04-19T18:35:59+00:00</published>
+		<updated>2015-04-19T18:35:59+00:00</updated>
+		<id>https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/2-parting</id>
+		<author>
+			<name>Kate Coady</name>
+		</author>
+		<summary type="html">&lt;h3 class=&quot;story-teaser&quot;&gt;by &lt;a href=&quot;https://nightland.website/index.php?option=com_content&amp;amp;view=article&amp;amp;id=39&amp;amp;catid=31&amp;amp;Itemid=101&quot;&gt;Nigel Price&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;story-intro&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/2-parting&quot;&gt;&lt;img class=&quot;story-thumb&quot; src=&quot;https://nightland.website/images/thumbs/coady-red-sun-thumb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;story-teaser&quot;&gt;&quot;They told how hounds and humans had lived side by side and fought the common enemy...&quot;&lt;/p&gt;
+&lt;/div&gt;
+</summary>
+		<content type="html">&lt;h3 class=&quot;story-teaser&quot;&gt;by &lt;a href=&quot;https://nightland.website/index.php?option=com_content&amp;amp;view=article&amp;amp;id=39&amp;amp;catid=31&amp;amp;Itemid=101&quot;&gt;Nigel Price&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;story-intro&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/2-parting&quot;&gt;&lt;img class=&quot;story-thumb&quot; src=&quot;https://nightland.website/images/thumbs/coady-red-sun-thumb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;story-teaser&quot;&gt;&quot;They told how hounds and humans had lived side by side and fought the common enemy...&quot;&lt;/p&gt;
+&lt;/div&gt;
+</content>
+		<category term="Parting" />
+	</entry>
+	<entry>
+		<title>The Background of the Night Land</title>
+		<link rel="alternate" type="text/html" href="https://nightland.website/index.php/background/essays/190-the-background-of-the-night-land"/>
+		<published>2015-07-11T18:59:27+00:00</published>
+		<updated>2015-07-11T18:59:27+00:00</updated>
+		<id>https://nightland.website/index.php/background/essays/190-the-background-of-the-night-land</id>
+		<author>
+			<name>Kate Coady</name>
+		</author>
+		<summary type="html">&lt;h3 class=&quot;story-teaser&quot;&gt;An Assortment of Ideas&lt;/h3&gt;
+&lt;h3 class=&quot;story-teaser&quot;&gt;By &lt;a href=&quot;https://nightland.website/index.php/about/authors-and-artists/191-don-muchow&quot;&gt;Don Muchow&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;story-intro&quot;&gt;
+&lt;p&gt;&lt;img class=&quot;story-thumb&quot; src=&quot;https://nightland.website/images/thumbs/nasa-satellite-public-domain-thumb.jpg&quot; alt=&quot;NASA satellite view of Earth's geological features&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;article-teaser&quot;&gt;A combination of known planetary geology, climatology, evolution, etc. Conjectures range about 20-50 million years into the future.&lt;/p&gt;
+&lt;/div&gt;
+</summary>
+		<content type="html">&lt;h3 class=&quot;story-teaser&quot;&gt;An Assortment of Ideas&lt;/h3&gt;
+&lt;h3 class=&quot;story-teaser&quot;&gt;By &lt;a href=&quot;https://nightland.website/index.php/about/authors-and-artists/191-don-muchow&quot;&gt;Don Muchow&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;story-intro&quot;&gt;
+&lt;p&gt;&lt;img class=&quot;story-thumb&quot; src=&quot;https://nightland.website/images/thumbs/nasa-satellite-public-domain-thumb.jpg&quot; alt=&quot;NASA satellite view of Earth's geological features&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;article-teaser&quot;&gt;A combination of known planetary geology, climatology, evolution, etc. Conjectures range about 20-50 million years into the future.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+		<category term="The Background of the Night Land" />
+	</entry>
+	<entry>
+		<title>The Seeker</title>
+		<link rel="alternate" type="text/html" href="https://nightland.website/index.php/stories/night-land-stories/the-last-redoubt/59-the-seeker"/>
+		<published>2015-05-06T17:09:23+00:00</published>
+		<updated>2015-05-06T17:09:23+00:00</updated>
+		<id>https://nightland.website/index.php/stories/night-land-stories/the-last-redoubt/59-the-seeker</id>
+		<author>
+			<name>Kate Coady</name>
+		</author>
+		<summary type="html">&lt;h3 class=&quot;story-teaser&quot;&gt;By &lt;a href=&quot;https://nightland.website/index.php/about/authors-and-artists/154-carole-carmen&quot;&gt;Carole Carmen&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;story-intro&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-last-redoubt/59-the-seeker&quot;&gt;&lt;img class=&quot;story-thumb&quot; src=&quot;https://nightland.website/images/thumbs/fabian-past-house-of-silence-thumb.jpg&quot; alt=&quot;A man and a cloaked woman confront a high, ominous, gabled Gothic house, beside a road in darkness.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;story-teaser&quot;&gt;In recent years, a tall figure in shattered grey armour has been seen wandering the Road Where The Silent Ones Walk. It is not known if this is a True Human — scholars continue to debate. But he has become known to all as The Seeker.&lt;/p&gt;
+&lt;/div&gt;
+</summary>
+		<content type="html">&lt;h3 class=&quot;story-teaser&quot;&gt;By &lt;a href=&quot;https://nightland.website/index.php/about/authors-and-artists/154-carole-carmen&quot;&gt;Carole Carmen&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;story-intro&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-last-redoubt/59-the-seeker&quot;&gt;&lt;img class=&quot;story-thumb&quot; src=&quot;https://nightland.website/images/thumbs/fabian-past-house-of-silence-thumb.jpg&quot; alt=&quot;A man and a cloaked woman confront a high, ominous, gabled Gothic house, beside a road in darkness.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;story-teaser&quot;&gt;In recent years, a tall figure in shattered grey armour has been seen wandering the Road Where The Silent Ones Walk. It is not known if this is a True Human — scholars continue to debate. But he has become known to all as The Seeker.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+		<category term="The Seeker" />
+	</entry>
+</feed>

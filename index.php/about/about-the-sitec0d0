@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>The Night Land - About the Site</title>
+		<description><![CDATA[The Weird Fiction of William Hope Hodgson]]></description>
+		<link>https://nightland.website/index.php/about/about-the-site</link>
+		<lastBuildDate>Mon, 21 Apr 2025 00:37:30 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://nightland.website/index.php/about/about-the-site?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>coady.kate@gmail.com (The Night Land)</managingEditor>
+		<item>
+			<title>About the Night Land Website</title>
+			<link>https://nightland.website/index.php/about/about-the-site/186-about-the-night-land-website</link>
+			<guid isPermaLink="true">https://nightland.website/index.php/about/about-the-site/186-about-the-night-land-website</guid>
+			<description><![CDATA[<p>The late Andy Robertson founded the Night Land Website in 2001 to call attention to the works of neglected author William Hope Hodgson. Mr. Robertson managed the Night Land Website until 2014, when he died. The site was originally hosted at thenightland.co.uk.</p>
+<p>Kate Coady took over as webmaster after the death of Mr. Robertson. You can reach her at:</p>
+<p style="padding-left: 30px;">nightscribe (a) protonmail.com</p>
+<p>Replace (a) with @.</p>
+<p>This email address changed in mid-June 2020. Please update your contacts if you have the old one.</p>]]></description>
+			<author>coady.k@protonmail.com (Kate Coady)</author>
+			<category>About the Site</category>
+			<pubDate>Fri, 10 Jul 2015 23:10:04 +0000</pubDate>
+		</item>
+		<item>
+			<title>Link to the Night Land</title>
+			<link>https://nightland.website/index.php/about/about-the-site/217-link-to-the-night-land</link>
+			<guid isPermaLink="true">https://nightland.website/index.php/about/about-the-site/217-link-to-the-night-land</guid>
+			<description><![CDATA[<p>If you want to link to this site you can use the following code:</p>
+<p style="padding-left: 30px;">&lt;a href="http://nightland.website/"&gt;&lt;img src="http://nightland.website/images/otherlinks/nightlink.jpg"&gt;The Night Land Website&lt;/a&gt;</p>
+<p>It should look like:</p>
+<p><img src="https://nightland.website/images/otherlinks/nightlink.jpg" alt="A smaller version of the Night Land violet plasma logo by Tais Teng" /></p>
+<p>The image is by <a href="https://nightland.website/index.php/about/authors-and-artists/132-tais-teng">Tais Teng</a>.</p>]]></description>
+			<author>coady.k@protonmail.com (Kate Coady)</author>
+			<category>About the Site</category>
+			<pubDate>Fri, 02 Oct 2015 23:25:54 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

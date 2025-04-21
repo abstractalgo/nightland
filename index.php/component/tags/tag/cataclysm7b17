@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">The Night Land - The Night Land</title>
+	<subtitle type="text">The Weird Fiction of William Hope Hodgson</subtitle>
+	<link rel="alternate" type="text/html" href="https://nightland.website"/>
+	<id>https://nightland.website/index.php/component/tags/tag/cataclysm</id>
+	<updated>2025-04-21T01:08:54+00:00</updated>
+	<author>
+		<name>The Night Land</name>
+		<email>coady.kate@gmail.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://nightland.website/index.php/component/tags/tag/cataclysm?format=feed&amp;type=atom"/>
+	<entry>
+		<title>The Background of the Night Land</title>
+		<link rel="alternate" type="text/html" href="https://nightland.website/index.php/background/essays/190-the-background-of-the-night-land"/>
+		<published>2015-07-11T18:59:27+00:00</published>
+		<updated>2015-07-11T18:59:27+00:00</updated>
+		<id>https://nightland.website/index.php/background/essays/190-the-background-of-the-night-land</id>
+		<author>
+			<name>Kate Coady</name>
+		</author>
+		<summary type="html">&lt;h3 class=&quot;story-teaser&quot;&gt;An Assortment of Ideas&lt;/h3&gt;
+&lt;h3 class=&quot;story-teaser&quot;&gt;By &lt;a href=&quot;https://nightland.website/index.php/about/authors-and-artists/191-don-muchow&quot;&gt;Don Muchow&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;story-intro&quot;&gt;
+&lt;p&gt;&lt;img class=&quot;story-thumb&quot; src=&quot;https://nightland.website/images/thumbs/nasa-satellite-public-domain-thumb.jpg&quot; alt=&quot;NASA satellite view of Earth's geological features&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;article-teaser&quot;&gt;A combination of known planetary geology, climatology, evolution, etc. Conjectures range about 20-50 million years into the future.&lt;/p&gt;
+&lt;/div&gt;
+</summary>
+		<content type="html">&lt;h3 class=&quot;story-teaser&quot;&gt;An Assortment of Ideas&lt;/h3&gt;
+&lt;h3 class=&quot;story-teaser&quot;&gt;By &lt;a href=&quot;https://nightland.website/index.php/about/authors-and-artists/191-don-muchow&quot;&gt;Don Muchow&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;story-intro&quot;&gt;
+&lt;p&gt;&lt;img class=&quot;story-thumb&quot; src=&quot;https://nightland.website/images/thumbs/nasa-satellite-public-domain-thumb.jpg&quot; alt=&quot;NASA satellite view of Earth's geological features&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;article-teaser&quot;&gt;A combination of known planetary geology, climatology, evolution, etc. Conjectures range about 20-50 million years into the future.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+		<category term="The Background of the Night Land" />
+	</entry>
+	<entry>
+		<title>The Cataclysm</title>
+		<link rel="alternate" type="text/html" href="https://nightland.website/index.php/background/cosmos/future-histories/future-history-the-night-land/265-the-cataclysm"/>
+		<published>2016-08-10T05:47:14+00:00</published>
+		<updated>2016-08-10T05:47:14+00:00</updated>
+		<id>https://nightland.website/index.php/background/cosmos/future-histories/future-history-the-night-land/265-the-cataclysm</id>
+		<author>
+			<name>Kate Coady</name>
+		</author>
+		<summary type="html">&lt;h3 class=&quot;story-teaser&quot;&gt;By &lt;a href=&quot;https://nightland.website/index.php/about/william-hope-hodgson&quot;&gt;William Hope Hodgson&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;story-intro&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://nightland.website/index.php/background/cosmos/future-histories/future-history-the-night-land/265-the-cataclysm&quot;&gt;&lt;img class=&quot;story-thumb&quot; src=&quot;https://nightland.website/images/thumbs/volcanic-fissure-pd-thumb.jpg&quot; alt=&quot;A volcanic fissure erupting in a curtain of lava and smoke.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;story-teaser&quot;&gt;Quotes from &lt;span class=&quot;book-title&quot;&gt;The Night Land&lt;/span&gt; about the Cataclysm that created the Great Valley.&lt;/p&gt;
+&lt;/div&gt;
+</summary>
+		<content type="html">&lt;h3 class=&quot;story-teaser&quot;&gt;By &lt;a href=&quot;https://nightland.website/index.php/about/william-hope-hodgson&quot;&gt;William Hope Hodgson&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;story-intro&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://nightland.website/index.php/background/cosmos/future-histories/future-history-the-night-land/265-the-cataclysm&quot;&gt;&lt;img class=&quot;story-thumb&quot; src=&quot;https://nightland.website/images/thumbs/volcanic-fissure-pd-thumb.jpg&quot; alt=&quot;A volcanic fissure erupting in a curtain of lava and smoke.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;story-teaser&quot;&gt;Quotes from &lt;span class=&quot;book-title&quot;&gt;The Night Land&lt;/span&gt; about the Cataclysm that created the Great Valley.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+		<category term="The Cataclysm" />
+	</entry>
+</feed>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>The Night Land - In Memory</title>
+		<description><![CDATA[The Weird Fiction of William Hope Hodgson]]></description>
+		<link>https://nightland.website/index.php/about/in-memory</link>
+		<lastBuildDate>Mon, 21 Apr 2025 00:38:21 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://nightland.website/index.php/about/in-memory?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>coady.kate@gmail.com (The Night Land)</managingEditor>
+		<item>
+			<title>In Memory of Andy Robertson</title>
+			<link>https://nightland.website/index.php/about/in-memory/207-in-memory-of-andy-robertson</link>
+			<guid isPermaLink="true">https://nightland.website/index.php/about/in-memory/207-in-memory-of-andy-robertson</guid>
+			<description><![CDATA[<p><img class="story-header" src="https://nightland.website/images/illustrations/robertson-andy-portrait.jpg" alt="A portrait of the late Andy Robertson" /></p>
+<h2 class="memorial">In Memory of Andy Robertson</h2>
+<h3 class="memorial-title">Rest in peace, old friend.</h3>
+<p class="centered-para">Andy Robertson founded the Night Land Website in 2001. He died in April 2014. We miss him badly.</p>]]></description>
+			<author>coady.k@protonmail.com (Kate Coady)</author>
+			<category>In Memory of Andy Robertson</category>
+			<pubDate>Thu, 23 Jul 2015 00:39:33 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

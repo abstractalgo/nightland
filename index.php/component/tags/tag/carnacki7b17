@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">The Night Land - The Night Land</title>
+	<subtitle type="text">The Weird Fiction of William Hope Hodgson</subtitle>
+	<link rel="alternate" type="text/html" href="https://nightland.website"/>
+	<id>https://nightland.website/index.php/component/tags/tag/carnacki</id>
+	<updated>2025-04-21T01:10:22+00:00</updated>
+	<author>
+		<name>The Night Land</name>
+		<email>coady.kate@gmail.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://nightland.website/index.php/component/tags/tag/carnacki?format=feed&amp;type=atom"/>
+	<entry>
+		<title>A Timeline for Hodgsonian Fiction</title>
+		<link rel="alternate" type="text/html" href="https://nightland.website/index.php/background/timeline/184-timeline"/>
+		<published>2015-07-09T21:56:17+00:00</published>
+		<updated>2015-07-09T21:56:17+00:00</updated>
+		<id>https://nightland.website/index.php/background/timeline/184-timeline</id>
+		<author>
+			<name>Kate Coady</name>
+		</author>
+		<summary type="html">&lt;p&gt;This is a possible timeline for William Hope Hodgson's weird fiction, and for stories published on this site. Note that none of it is carved in stone — not all stories on the site agree with each other. They may not agree with this timeline. Also, please note that the story positions on the timeline are only approximate.&lt;/p&gt;
+&lt;p&gt;Please note further that Mr. Hodgson never wrote anything about space travel in any of his speculative fiction. Some stories on this site assume that Man achieved interstellar flight, encountered Great Monsters in space, and was eventually driven back to Earth. But stories in which Man never left the Solar System could also fit Mr. Hodgson's milieu.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;book-title&quot;&gt;The Night Land,&lt;/span&gt; &lt;span class=&quot;book-title&quot;&gt;The House on the Borderland,&lt;/span&gt; the Carnacki stories, and the sea horror stories share a cosmology, even though they don't all belong to the same genres.&lt;/p&gt;
+&lt;p&gt;We also have &lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/chronological-list-of-stories&quot;&gt;a chronological list of stories&lt;/a&gt; that are, or were, published on this site.&lt;/p&gt;
+&lt;div id=&quot;timeline&quot;&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;
+&lt;div class=&quot;tl-header&quot;&gt;&lt;span class=&quot;tl-era&quot;&gt;The Days of Light&lt;/span&gt;&lt;/div&gt;
+&lt;!-- Unknown Antiquity --&gt;
+&lt;div class=&quot;tl-antiquity&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;Unknown antiquity&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;http://www.forgottenfutures.com/game/ff4/worldbk4.htm&quot; target=&quot;_blank&quot;&gt;Carnacki stories&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The origin of the Saaamaaa Ritual used by Carnacki, evidently known to, and perhaps created by, certain ancient abhuman priests.&lt;/span&gt;&lt;/div&gt;
+&lt;!--The Present --&gt;
+&lt;div class=&quot;tl-light&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;16th century&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;http://www.forgottenfutures.com/game/ff4/worldbk4.htm&quot; target=&quot;_blank&quot;&gt;Carnacki stories&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The Sigsand Manuscript is written.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-light&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;17th century&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;http://fiction.eserver.org/novels/nightland/&quot; target=&quot;_blank&quot;&gt;The Night Land,&lt;/a&gt; Chapter 1&lt;/span&gt; &lt;span class=&quot;tl-desc&quot;&gt;&quot;... a far vision, strangely hallowed with peacefulness and light.&quot;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-light&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;Late 18th century&lt;/span&gt; &lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;http://fiction.eserver.org/novels/borderland/&quot; target=&quot;_blank&quot;&gt;The House on the Borderland&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Events in the Recluse's own lifetime.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-light&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;1877&lt;/span&gt; &lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;http://fiction.eserver.org/novels/borderland/&quot; target=&quot;_blank&quot;&gt;The House on the Borderland&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The Recluse's diary is discovered.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-light&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;Early 20th century&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/background/links/178-william-hope-hodgson-s-fiction-online&quot;&gt;Sea horror stories&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-light&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;http://www.forgottenfutures.com/game/ff4/worldbk4.htm&quot; target=&quot;_blank&quot;&gt;Carnacki stories&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Thomas Carnacki's cases.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- MAN IN SPACE --&gt;
+&lt;div class=&quot;tl-header&quot;&gt;&lt;span class=&quot;tl-era&quot;&gt;Man in Space&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;1 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/45-across-the-night-wall&quot;&gt;Across the Night Wall&lt;/a&gt; (begins)&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Three separate spacefaring civilizations pass. Encounter with the Eaters, between the stars, and flight back to Manhome.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;2 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/poetry-and-vignettes/63-the-door-in-the-wall&quot;&gt;The Door in the Wall&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;!-- THE SLOW SUN --&gt;
+&lt;div class=&quot;tl-header&quot;&gt;&lt;span class=&quot;tl-era&quot;&gt;The Slow Sun&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;3 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt; &lt;span class=&quot;tl-desc&quot;&gt;The Sun has cooled to gold and the Earth's rotation has been markedly slowed by tidal drag. Owing to the oblateness of the Earth, equatorial sea-floor is — very slowly — becoming dry, and lands near the poles are being inundated, with equal want of speed. The greatest of all building projects — the World Road system — is begun.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;4 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/11-narcissus&quot;&gt;Narcissus&lt;/a&gt; (begins)&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Many have dug in underground to escape the extremes of temperature, now that Earth's days and night are greatly lengthened. Some mobile arcologies have been built. The first World Road is complete near the Earth's equator.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;5 million A.D.&lt;/span&gt; &lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;6 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Earth's day has lengthened to months. High latitudes are inundated by the oceans; the former ocean floor in low latitudes is dry. Cities move round the world on fixed roads, staying in the light. The World-Road has been greatly expanded.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;7 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/9-red-giant-s-race&quot;&gt;Red Giant's Race&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The Sun has cooled to orange. A vast procession of Moving Cities traverses the World Roads. The Earth has a band of dry land around its equator; the poles and the higher-latitude zones are drowned forever. Tribes of walkers accompany the Moving Cities.In higher latitudes, likewise, there are people following the Slow Sun in vast ships or fleets of boats.&lt;/span&gt;&lt;/div&gt;
+&lt;!-- THE CATACLYSM &amp; DESCENT --&gt;
+&lt;div class=&quot;tl-header&quot;&gt;&lt;span class=&quot;tl-era&quot;&gt;The Cataclysm&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-half-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;8 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/11-narcissus&amp;quot;&quot;&gt;Narcissus&lt;/a&gt; (ends)&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/44-salvage&quot;&gt;Salvage&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;A vast explosion bursts the world &quot;along a great curve where it had weakness.&quot; An ocean falls into the rift and bursts into a super-Krakatoa. A great Valley is formed, comparable to the Valles Marineris on Mars. Massive die-off and volcanic winter.&lt;/span&gt;
+&lt;div class=&quot;tl=row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/poetry-and-vignettes/151-in-the-lee-of-night&quot;&gt;In the Lee of Night&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Earth's rotation slows to 1 day/year (tidelock), so that it always turns the same face to the Sun. One hemisphere is in eternal night.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;tl-header&quot;&gt;&lt;span class=&quot;tl-era&quot;&gt;The Great Descent&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-half-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;8.5 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/48-above&quot;&gt;Above&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/5-low-the-ascomycotan-sky&quot;&gt;Low the Ascomycotan Sky&lt;/a&gt;&lt;br /&gt;Children of the Hive (begins)&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The Valley cools and becomes habitable. The people known as the Road-Makers begin a long, slow descent into the Valley. Over countless generations, they slowly descend and adapt, building the Road from which they get their name. Some make dwellings along the cliffs; others remain with the very few Moving Cities to surve the Cataclysm, as they travel the Road. A small number of surviving Moving Cities will reach the Valley floor.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;9 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The Sun begins to die. The upward Earth grows quiet, cold, and &quot;not good to live upon&quot;. Humanity cannot survive without protective clothing anywhere.&lt;br /&gt;&lt;br /&gt;Humans take over the floor of the Valley, displacing the dominant species there. They build cities along the Valley to the Bight where it turns northward, and continue their colonisation northward into the Shadow: but are repelled by the inhabitants of the Shadow, who are intelligent, but not human.&lt;/span&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/51-the-last-road-maker&quot;&gt;The Last Road Maker&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- THE DAYS OF DARKENING --&gt;
+&lt;div class=&quot;tl-header&quot;&gt;&lt;span class=&quot;tl-era&quot;&gt;The Days of Darkening&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;10 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;All biological life on the Earth's upper surface ends.&lt;/span&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/47-eve-of-evil&quot;&gt;Eve of Evil&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The Road Makers increase their population and come to a time of ease and some decadence. They investigate the Forces which hold them in stalemate at the Bight. Exploration into time and other dimensions allows disastrous irruptions of other Outer forces.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt; &lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The decadent consort with Outside forces and with beast-men. The first Giants appear.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt; &lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The Road Makers are attacked by the inhabitants of the Shadow, and driven back from the Bight. Pandemonaeum and despair among the cities of the Valley.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt; &lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Telepathic gifts start to show up in humanity at moderate frequency.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;11 million A.D.&lt;/span&gt; &lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;!-- THE LAST REDOUBT --&gt;
+&lt;div class=&quot;tl-header&quot;&gt;&lt;span class=&quot;tl-era&quot;&gt;The Last Redoubt: The Second History of the World&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;12 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/3-red-twilight&quot;&gt;Red Twilight&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/2-parting&quot;&gt;Parting&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/52-ex-machina&quot;&gt;Ex Machina&lt;br /&gt;&lt;/a&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/130-gold&quot;&gt;Gold&lt;/a&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/52-ex-machina&quot;&gt;&lt;br /&gt;&lt;/a&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/49-and-the-sky-is-filled-with-eyes&quot;&gt;And the Sky is Filled with Eyes&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The Road Makers repel their enemies and construct a great arcology at the Bight, the Redoubt, drawing its power from geoelectricity.&lt;br /&gt;&lt;br /&gt;Humanity retires within the Redoubt, continuing to tunnel down into the Earth to construct the Underground Fields.&lt;/span&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt; &lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Outside the Redoubt, the Unforgiven and the Hybrids continue to mix with Outside entities.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt; &lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;A rebellious sub-faction builds a second Redoubt, only 0.5% of the volume of the Great Redoubt, located far to the north.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt; &lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The Master-Word is encoded and fixed in human genetics.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;13 million A.D.&lt;/span&gt; &lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The Great Redoubt is completed: the last of the Underground Fields are hollowed and litten. Human population reaches 500 million.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;14 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/46-delight&quot;&gt;Delight&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Age of the Flying Ships. Humanity turns outward again and explores the unknown and forgotten world beyond the two Redoubts.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;15 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/12-the-wreck-of-the-aetherwing&quot;&gt;The Wreck of the Aetherwing&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Unprecedented developments within the Night Land bring an end to the age of exploration.&lt;br /&gt;&lt;br /&gt;The first appearance of Pneumavores and other Dark Forces.&lt;/span&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The ability to project the Master-Word telepathically is now considered the major criterion of true humanity.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;tl-header&quot;&gt;&lt;span class=&quot;tl-era&quot;&gt;The Night Land&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;16 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Nightfall. The Sun is no longer visible to human eyes.&lt;/span&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The North-West Watcher appears. The Redoubt is henceforth under siege.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Foundation of the Guild of Monstruwacans.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Appearance of other Watchers.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;The Siege of Humanity&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Monsters and Forces multiply within the Night Land. The Great Redoubt is attacked many times. The lower half-mile is abandoned and the Air Clog (force-field) is put in place around the Redoubt at ground level.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The South Watcher is first sighted.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/50-embrace-the-night&quot;&gt;Embrace the Night&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;17 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/16-lute&quot;&gt;Lute&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-last-redoubt/4-catharsis&quot;&gt;Catharsis&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;Children of the Hive (ends)&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The South Watcher is first sighted.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;18 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-last-redoubt/8-an-exhalation-of-butterflies&quot;&gt;An Exhalation of Butterflies&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/poetry-and-vignettes/101-the-watcher-speaks-to-the-eye-beam&quot;&gt;The Watcher Speaks to the Eye-Beam&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;19 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-last-redoubt/71-imago/166-imago-part-1&quot;&gt;Imago&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The last airship flight.&lt;/span&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;A Mouse in the Walls of the Lesser Redoubt&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;tl-header&quot;&gt;&lt;span class=&quot;tl-era&quot;&gt;The Fall of the Lesser Redoubt&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;20 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;http://fiction.eserver.org/novels/nightland/&quot;&gt;The Night Land,&lt;/a&gt; Chapter 2&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/story-samples/50-the-testament-of-andros&quot;&gt;The Testament of Andros&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/poetry-and-vignettes/103-at-the-fall&quot;&gt;At the Fall&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/poetry-and-vignettes/44-seeking-survival&quot;&gt;Seeking Survival&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The Lesser Redoubt falls. X journeys out into the Night Land and rescues Naani.&lt;br /&gt;From X and Naani, the inhabitants of the Redoubt learn of the habitable Land of Seas and Volcanoes in the old sea bed to the north.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;Awake in the Night&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;The Cry of the Night Hound&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;21 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-last-redoubt/54-meanwhile-she-dreams&quot;&gt;Meanwhile, She Dreams&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/poetry-and-vignettes/51-little-rituals&quot;&gt;Little Rituals&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;22 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/45-across-the-night-wall&quot;&gt;Across the Night Wall&lt;/a&gt; (ends)&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/poetry-and-vignettes/46-black-irises&quot;&gt;Black Irises&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;23 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/nightmares-of-the-fall/15-the-guild-of-the-last-migration&quot;&gt;The Guild of the Last Migration&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Some humans attempt to colonize the Land of Seas and Volcanoes.&lt;/span&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/nightmares-of-the-fall/57-slope&quot;&gt;Slope&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/nightmares-of-the-fall/56-the-heresy-of-scyrr/47-out-part-1&quot;&gt;Out&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/nightmares-of-the-fall/56-the-heresy-of-scyrr/55-kiss-part-1&quot;&gt;Kiss&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/nightmares-of-the-fall/56-the-heresy-of-scyrr/60-marks-part-1&quot;&gt;Marks&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The heresy of Scyrr.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;24 million years&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/nightmares-of-the-fall/6-the-inward-seer&quot;&gt;The Inward Seer&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-last-redoubt/53-eater/42-eater-part-1&quot;&gt;Eater&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/poetry-and-vignettes/160-from-the-tower-of-observation&quot;&gt;From the Tower of Observation&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/poetry-and-vignettes/58-dream&quot;&gt;Dream&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-last-redoubt/55-jewel/67-jewel-part-1&quot;&gt;Jewel&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/nightmares-of-the-fall/7-the-astronomer&quot;&gt;The Astronomer&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-last-redoubt/69-pallin-of-asphodelos/229-minotaur-part-1&quot;&gt;Minotaur&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-last-redoubt/69-pallin-of-asphodelos/226-little-watcher-part-1&quot;&gt;Little Watcher&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/nightmares-of-the-fall/10-eikon&quot;&gt;Eikon&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The Earth Current weakens. The Watchers advance upon the Redoubt.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/poetry-and-vignettes/102-beyond-the-green-luminous-mist&quot;&gt;Beyond the Green Luminous Mist&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/nightmares-of-the-fall/58-the-luminous-mist/144-heaven-sent-part-1&quot;&gt;Heaven Sent&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/nightmares-of-the-fall/58-the-luminous-mist/148-beyond-part-1&quot;&gt;Beyond&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;Silence of the Night&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;tl-header&quot;&gt;&lt;span class=&quot;tl-era&quot;&gt;The Fall of the Last Redoubt&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;25 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The Earth Current fails. Almost all the Millions commit suicide to avoid the Pneumavores. A few survivors flee to the Land of Seas and Volcanoes.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;26 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/poetry-and-vignettes/62-the-seer&quot;&gt;The Seer&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The last humans are living in the land of Seans and Volcanoes.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;27 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;28 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;29 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;30 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The last true human dies.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-header&quot;&gt;&lt;span class=&quot;tl-era&quot;&gt;The Earth Dies&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;Tens or hundreds of millions of years&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Extinction of all life on Earth.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Billions of years pass, far more time than has been accounted for up till now.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Earth falls into the dead Sun.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-hundred-billions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Many hundreds of billions of years pass.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl--row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;The Last of All Suns&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The Sun falls into the great Central Star of the Universe.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;The House on the Borderland (vision ends)&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;All lovers are reunited.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;p&gt;This is a possible timeline for William Hope Hodgson's weird fiction, and for stories published on this site. Note that none of it is carved in stone — not all stories on the site agree with each other. They may not agree with this timeline. Also, please note that the story positions on the timeline are only approximate.&lt;/p&gt;
+&lt;p&gt;Please note further that Mr. Hodgson never wrote anything about space travel in any of his speculative fiction. Some stories on this site assume that Man achieved interstellar flight, encountered Great Monsters in space, and was eventually driven back to Earth. But stories in which Man never left the Solar System could also fit Mr. Hodgson's milieu.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;book-title&quot;&gt;The Night Land,&lt;/span&gt; &lt;span class=&quot;book-title&quot;&gt;The House on the Borderland,&lt;/span&gt; the Carnacki stories, and the sea horror stories share a cosmology, even though they don't all belong to the same genres.&lt;/p&gt;
+&lt;p&gt;We also have &lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/chronological-list-of-stories&quot;&gt;a chronological list of stories&lt;/a&gt; that are, or were, published on this site.&lt;/p&gt;
+&lt;div id=&quot;timeline&quot;&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;
+&lt;div class=&quot;tl-header&quot;&gt;&lt;span class=&quot;tl-era&quot;&gt;The Days of Light&lt;/span&gt;&lt;/div&gt;
+&lt;!-- Unknown Antiquity --&gt;
+&lt;div class=&quot;tl-antiquity&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;Unknown antiquity&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;http://www.forgottenfutures.com/game/ff4/worldbk4.htm&quot; target=&quot;_blank&quot;&gt;Carnacki stories&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The origin of the Saaamaaa Ritual used by Carnacki, evidently known to, and perhaps created by, certain ancient abhuman priests.&lt;/span&gt;&lt;/div&gt;
+&lt;!--The Present --&gt;
+&lt;div class=&quot;tl-light&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;16th century&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;http://www.forgottenfutures.com/game/ff4/worldbk4.htm&quot; target=&quot;_blank&quot;&gt;Carnacki stories&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The Sigsand Manuscript is written.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-light&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;17th century&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;http://fiction.eserver.org/novels/nightland/&quot; target=&quot;_blank&quot;&gt;The Night Land,&lt;/a&gt; Chapter 1&lt;/span&gt; &lt;span class=&quot;tl-desc&quot;&gt;&quot;... a far vision, strangely hallowed with peacefulness and light.&quot;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-light&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;Late 18th century&lt;/span&gt; &lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;http://fiction.eserver.org/novels/borderland/&quot; target=&quot;_blank&quot;&gt;The House on the Borderland&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Events in the Recluse's own lifetime.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-light&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;1877&lt;/span&gt; &lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;http://fiction.eserver.org/novels/borderland/&quot; target=&quot;_blank&quot;&gt;The House on the Borderland&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The Recluse's diary is discovered.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-light&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;Early 20th century&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/background/links/178-william-hope-hodgson-s-fiction-online&quot;&gt;Sea horror stories&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-light&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;http://www.forgottenfutures.com/game/ff4/worldbk4.htm&quot; target=&quot;_blank&quot;&gt;Carnacki stories&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Thomas Carnacki's cases.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- MAN IN SPACE --&gt;
+&lt;div class=&quot;tl-header&quot;&gt;&lt;span class=&quot;tl-era&quot;&gt;Man in Space&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;1 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/45-across-the-night-wall&quot;&gt;Across the Night Wall&lt;/a&gt; (begins)&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Three separate spacefaring civilizations pass. Encounter with the Eaters, between the stars, and flight back to Manhome.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;2 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/poetry-and-vignettes/63-the-door-in-the-wall&quot;&gt;The Door in the Wall&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;!-- THE SLOW SUN --&gt;
+&lt;div class=&quot;tl-header&quot;&gt;&lt;span class=&quot;tl-era&quot;&gt;The Slow Sun&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;3 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt; &lt;span class=&quot;tl-desc&quot;&gt;The Sun has cooled to gold and the Earth's rotation has been markedly slowed by tidal drag. Owing to the oblateness of the Earth, equatorial sea-floor is — very slowly — becoming dry, and lands near the poles are being inundated, with equal want of speed. The greatest of all building projects — the World Road system — is begun.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;4 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/11-narcissus&quot;&gt;Narcissus&lt;/a&gt; (begins)&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Many have dug in underground to escape the extremes of temperature, now that Earth's days and night are greatly lengthened. Some mobile arcologies have been built. The first World Road is complete near the Earth's equator.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;5 million A.D.&lt;/span&gt; &lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;6 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Earth's day has lengthened to months. High latitudes are inundated by the oceans; the former ocean floor in low latitudes is dry. Cities move round the world on fixed roads, staying in the light. The World-Road has been greatly expanded.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;7 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/9-red-giant-s-race&quot;&gt;Red Giant's Race&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The Sun has cooled to orange. A vast procession of Moving Cities traverses the World Roads. The Earth has a band of dry land around its equator; the poles and the higher-latitude zones are drowned forever. Tribes of walkers accompany the Moving Cities.In higher latitudes, likewise, there are people following the Slow Sun in vast ships or fleets of boats.&lt;/span&gt;&lt;/div&gt;
+&lt;!-- THE CATACLYSM &amp; DESCENT --&gt;
+&lt;div class=&quot;tl-header&quot;&gt;&lt;span class=&quot;tl-era&quot;&gt;The Cataclysm&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-half-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;8 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/11-narcissus&amp;quot;&quot;&gt;Narcissus&lt;/a&gt; (ends)&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/44-salvage&quot;&gt;Salvage&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;A vast explosion bursts the world &quot;along a great curve where it had weakness.&quot; An ocean falls into the rift and bursts into a super-Krakatoa. A great Valley is formed, comparable to the Valles Marineris on Mars. Massive die-off and volcanic winter.&lt;/span&gt;
+&lt;div class=&quot;tl=row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/poetry-and-vignettes/151-in-the-lee-of-night&quot;&gt;In the Lee of Night&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Earth's rotation slows to 1 day/year (tidelock), so that it always turns the same face to the Sun. One hemisphere is in eternal night.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;tl-header&quot;&gt;&lt;span class=&quot;tl-era&quot;&gt;The Great Descent&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-half-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;8.5 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/48-above&quot;&gt;Above&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/5-low-the-ascomycotan-sky&quot;&gt;Low the Ascomycotan Sky&lt;/a&gt;&lt;br /&gt;Children of the Hive (begins)&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The Valley cools and becomes habitable. The people known as the Road-Makers begin a long, slow descent into the Valley. Over countless generations, they slowly descend and adapt, building the Road from which they get their name. Some make dwellings along the cliffs; others remain with the very few Moving Cities to surve the Cataclysm, as they travel the Road. A small number of surviving Moving Cities will reach the Valley floor.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;9 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The Sun begins to die. The upward Earth grows quiet, cold, and &quot;not good to live upon&quot;. Humanity cannot survive without protective clothing anywhere.&lt;br /&gt;&lt;br /&gt;Humans take over the floor of the Valley, displacing the dominant species there. They build cities along the Valley to the Bight where it turns northward, and continue their colonisation northward into the Shadow: but are repelled by the inhabitants of the Shadow, who are intelligent, but not human.&lt;/span&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/51-the-last-road-maker&quot;&gt;The Last Road Maker&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- THE DAYS OF DARKENING --&gt;
+&lt;div class=&quot;tl-header&quot;&gt;&lt;span class=&quot;tl-era&quot;&gt;The Days of Darkening&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;10 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;All biological life on the Earth's upper surface ends.&lt;/span&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/47-eve-of-evil&quot;&gt;Eve of Evil&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The Road Makers increase their population and come to a time of ease and some decadence. They investigate the Forces which hold them in stalemate at the Bight. Exploration into time and other dimensions allows disastrous irruptions of other Outer forces.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt; &lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The decadent consort with Outside forces and with beast-men. The first Giants appear.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt; &lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The Road Makers are attacked by the inhabitants of the Shadow, and driven back from the Bight. Pandemonaeum and despair among the cities of the Valley.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt; &lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Telepathic gifts start to show up in humanity at moderate frequency.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;11 million A.D.&lt;/span&gt; &lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;!-- THE LAST REDOUBT --&gt;
+&lt;div class=&quot;tl-header&quot;&gt;&lt;span class=&quot;tl-era&quot;&gt;The Last Redoubt: The Second History of the World&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;12 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/3-red-twilight&quot;&gt;Red Twilight&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/2-parting&quot;&gt;Parting&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/52-ex-machina&quot;&gt;Ex Machina&lt;br /&gt;&lt;/a&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/130-gold&quot;&gt;Gold&lt;/a&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/52-ex-machina&quot;&gt;&lt;br /&gt;&lt;/a&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/49-and-the-sky-is-filled-with-eyes&quot;&gt;And the Sky is Filled with Eyes&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The Road Makers repel their enemies and construct a great arcology at the Bight, the Redoubt, drawing its power from geoelectricity.&lt;br /&gt;&lt;br /&gt;Humanity retires within the Redoubt, continuing to tunnel down into the Earth to construct the Underground Fields.&lt;/span&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt; &lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Outside the Redoubt, the Unforgiven and the Hybrids continue to mix with Outside entities.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt; &lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;A rebellious sub-faction builds a second Redoubt, only 0.5% of the volume of the Great Redoubt, located far to the north.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt; &lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The Master-Word is encoded and fixed in human genetics.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;13 million A.D.&lt;/span&gt; &lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The Great Redoubt is completed: the last of the Underground Fields are hollowed and litten. Human population reaches 500 million.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;14 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/46-delight&quot;&gt;Delight&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Age of the Flying Ships. Humanity turns outward again and explores the unknown and forgotten world beyond the two Redoubts.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;15 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/12-the-wreck-of-the-aetherwing&quot;&gt;The Wreck of the Aetherwing&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Unprecedented developments within the Night Land bring an end to the age of exploration.&lt;br /&gt;&lt;br /&gt;The first appearance of Pneumavores and other Dark Forces.&lt;/span&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The ability to project the Master-Word telepathically is now considered the major criterion of true humanity.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;tl-header&quot;&gt;&lt;span class=&quot;tl-era&quot;&gt;The Night Land&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;16 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Nightfall. The Sun is no longer visible to human eyes.&lt;/span&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The North-West Watcher appears. The Redoubt is henceforth under siege.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Foundation of the Guild of Monstruwacans.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Appearance of other Watchers.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;The Siege of Humanity&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Monsters and Forces multiply within the Night Land. The Great Redoubt is attacked many times. The lower half-mile is abandoned and the Air Clog (force-field) is put in place around the Redoubt at ground level.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The South Watcher is first sighted.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/50-embrace-the-night&quot;&gt;Embrace the Night&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;17 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/16-lute&quot;&gt;Lute&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-last-redoubt/4-catharsis&quot;&gt;Catharsis&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;Children of the Hive (ends)&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The South Watcher is first sighted.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;18 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-last-redoubt/8-an-exhalation-of-butterflies&quot;&gt;An Exhalation of Butterflies&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/poetry-and-vignettes/101-the-watcher-speaks-to-the-eye-beam&quot;&gt;The Watcher Speaks to the Eye-Beam&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;19 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-last-redoubt/71-imago/166-imago-part-1&quot;&gt;Imago&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The last airship flight.&lt;/span&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;A Mouse in the Walls of the Lesser Redoubt&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;tl-header&quot;&gt;&lt;span class=&quot;tl-era&quot;&gt;The Fall of the Lesser Redoubt&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;20 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;http://fiction.eserver.org/novels/nightland/&quot;&gt;The Night Land,&lt;/a&gt; Chapter 2&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/story-samples/50-the-testament-of-andros&quot;&gt;The Testament of Andros&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/poetry-and-vignettes/103-at-the-fall&quot;&gt;At the Fall&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/poetry-and-vignettes/44-seeking-survival&quot;&gt;Seeking Survival&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The Lesser Redoubt falls. X journeys out into the Night Land and rescues Naani.&lt;br /&gt;From X and Naani, the inhabitants of the Redoubt learn of the habitable Land of Seas and Volcanoes in the old sea bed to the north.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;Awake in the Night&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;The Cry of the Night Hound&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;21 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-last-redoubt/54-meanwhile-she-dreams&quot;&gt;Meanwhile, She Dreams&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/poetry-and-vignettes/51-little-rituals&quot;&gt;Little Rituals&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;22 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-days-of-darkening/45-across-the-night-wall&quot;&gt;Across the Night Wall&lt;/a&gt; (ends)&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/poetry-and-vignettes/46-black-irises&quot;&gt;Black Irises&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;23 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/nightmares-of-the-fall/15-the-guild-of-the-last-migration&quot;&gt;The Guild of the Last Migration&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Some humans attempt to colonize the Land of Seas and Volcanoes.&lt;/span&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/nightmares-of-the-fall/57-slope&quot;&gt;Slope&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/nightmares-of-the-fall/56-the-heresy-of-scyrr/47-out-part-1&quot;&gt;Out&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/nightmares-of-the-fall/56-the-heresy-of-scyrr/55-kiss-part-1&quot;&gt;Kiss&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/nightmares-of-the-fall/56-the-heresy-of-scyrr/60-marks-part-1&quot;&gt;Marks&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The heresy of Scyrr.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;24 million years&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/nightmares-of-the-fall/6-the-inward-seer&quot;&gt;The Inward Seer&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-last-redoubt/53-eater/42-eater-part-1&quot;&gt;Eater&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/poetry-and-vignettes/160-from-the-tower-of-observation&quot;&gt;From the Tower of Observation&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/poetry-and-vignettes/58-dream&quot;&gt;Dream&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-last-redoubt/55-jewel/67-jewel-part-1&quot;&gt;Jewel&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/nightmares-of-the-fall/7-the-astronomer&quot;&gt;The Astronomer&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-last-redoubt/69-pallin-of-asphodelos/229-minotaur-part-1&quot;&gt;Minotaur&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/the-last-redoubt/69-pallin-of-asphodelos/226-little-watcher-part-1&quot;&gt;Little Watcher&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/nightmares-of-the-fall/10-eikon&quot;&gt;Eikon&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The Earth Current weakens. The Watchers advance upon the Redoubt.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/poetry-and-vignettes/102-beyond-the-green-luminous-mist&quot;&gt;Beyond the Green Luminous Mist&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/nightmares-of-the-fall/58-the-luminous-mist/144-heaven-sent-part-1&quot;&gt;Heaven Sent&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/nightmares-of-the-fall/58-the-luminous-mist/148-beyond-part-1&quot;&gt;Beyond&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;Silence of the Night&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;tl-header&quot;&gt;&lt;span class=&quot;tl-era&quot;&gt;The Fall of the Last Redoubt&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;25 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The Earth Current fails. Almost all the Millions commit suicide to avoid the Pneumavores. A few survivors flee to the Land of Seas and Volcanoes.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;26 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/stories/night-land-stories/poetry-and-vignettes/62-the-seer&quot;&gt;The Seer&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The last humans are living in the land of Seans and Volcanoes.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;27 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;28 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;29 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;30 million A.D.&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The last true human dies.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-header&quot;&gt;&lt;span class=&quot;tl-era&quot;&gt;The Earth Dies&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt;Tens or hundreds of millions of years&lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Extinction of all life on Earth.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Billions of years pass, far more time than has been accounted for up till now.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-millions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Earth falls into the dead Sun.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-hundred-billions-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;Many hundreds of billions of years pass.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl--row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;The Last of All Suns&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;The Sun falls into the great Central Star of the Universe.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;tl-row&quot;&gt;&lt;span class=&quot;tl-date&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tl-stories&quot;&gt;The House on the Borderland (vision ends)&lt;/span&gt;&lt;span class=&quot;tl-desc&quot;&gt;All lovers are reunited.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;</content>
+		<category term="A Timeline for Hodgsonian Fiction" />
+	</entry>
+	<entry>
+		<title>Grey Dog Tales Celebrates William Hope Hodgson</title>
+		<link rel="alternate" type="text/html" href="https://nightland.website/index.php/journal/30-news/223-grey-dog-tales-celebrates-william-hope-hodgson"/>
+		<published>2015-10-08T01:57:06+00:00</published>
+		<updated>2015-10-08T01:57:06+00:00</updated>
+		<id>https://nightland.website/index.php/journal/30-news/223-grey-dog-tales-celebrates-william-hope-hodgson</id>
+		<author>
+			<name>Kate Coady</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;http://greydogtales.com/blog/&quot; target=&quot;_blank&quot;&gt;Grey Dog Tales &lt;/a&gt;is hosting a month-long celebration of William Hope Hodgson. (Since I was bringing the site up, I'm a little late with this notification.)&lt;/p&gt;
+&lt;p&gt;William Hope Hodgson is often praised for his fantastic vision. He's not often praised for his characterization. Yet John Linwood Grant, in a post entitled &quot;The Writer on the Borderland 1: Hodgson and Carnacki&quot;, points out that Mr. Hodgson's characterization of his occult detective Thomas Carnacki shows some humanizing characteristics not so clearly depicted in other writers' counterparts.&lt;/p&gt;
+&lt;p&gt;I note that the same effect takes place in &lt;span class=&quot;book-title&quot;&gt;The Night Land.&lt;/span&gt; Mr. Hodgson often depicted protagonists who were desperately afraid of the weird threats they confronted: I believe a courageous character showing fear to be part of his technique for making his Outer Monstrosities fearful. X, the unnamed hero of &lt;span class=&quot;book-title&quot;&gt;The Night Land,&lt;/span&gt; is a brave, determined man and an accomplished fighter; and he regards certain of the Night Land's creatures with utter dread.&lt;/p&gt;
+&lt;p&gt;Mr. Grant is the author of &lt;a href=&quot;https://www.smashwords.com/books/byseries/21841&quot; target=&quot;_blank&quot;&gt;Tales of the Last Edwardian&lt;/a&gt;, a series of ghost or horror tales. They are available for free from Smashwords.&lt;/p&gt;
+&lt;p&gt;In the second half of the post Tim Prasil discusses how an anti-supernatural canon historically came to inform the literary concept of the mystery story.&lt;/p&gt;
+&lt;p&gt;Mr. Prasil is the author of the Vera Van Slyke occult detective stories.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;http://greydogtales.com/blog/&quot; target=&quot;_blank&quot;&gt;Grey Dog Tales &lt;/a&gt;is hosting a month-long celebration of William Hope Hodgson. (Since I was bringing the site up, I'm a little late with this notification.)&lt;/p&gt;
+&lt;p&gt;William Hope Hodgson is often praised for his fantastic vision. He's not often praised for his characterization. Yet John Linwood Grant, in a post entitled &quot;The Writer on the Borderland 1: Hodgson and Carnacki&quot;, points out that Mr. Hodgson's characterization of his occult detective Thomas Carnacki shows some humanizing characteristics not so clearly depicted in other writers' counterparts.&lt;/p&gt;
+&lt;p&gt;I note that the same effect takes place in &lt;span class=&quot;book-title&quot;&gt;The Night Land.&lt;/span&gt; Mr. Hodgson often depicted protagonists who were desperately afraid of the weird threats they confronted: I believe a courageous character showing fear to be part of his technique for making his Outer Monstrosities fearful. X, the unnamed hero of &lt;span class=&quot;book-title&quot;&gt;The Night Land,&lt;/span&gt; is a brave, determined man and an accomplished fighter; and he regards certain of the Night Land's creatures with utter dread.&lt;/p&gt;
+&lt;p&gt;Mr. Grant is the author of &lt;a href=&quot;https://www.smashwords.com/books/byseries/21841&quot; target=&quot;_blank&quot;&gt;Tales of the Last Edwardian&lt;/a&gt;, a series of ghost or horror tales. They are available for free from Smashwords.&lt;/p&gt;
+&lt;p&gt;In the second half of the post Tim Prasil discusses how an anti-supernatural canon historically came to inform the literary concept of the mystery story.&lt;/p&gt;
+&lt;p&gt;Mr. Prasil is the author of the Vera Van Slyke occult detective stories.&lt;/p&gt;</content>
+		<category term="Grey Dog Tales Celebrates William Hope Hodgson" />
+	</entry>
+	<entry>
+		<title>Grey Dog Tales Interviews Dan Starkey</title>
+		<link rel="alternate" type="text/html" href="https://nightland.website/index.php/journal/30-news/242-grey-dog-tales-interviews-dan-starkey"/>
+		<published>2016-03-27T22:05:18+00:00</published>
+		<updated>2016-03-27T22:05:18+00:00</updated>
+		<id>https://nightland.website/index.php/journal/30-news/242-grey-dog-tales-interviews-dan-starkey</id>
+		<author>
+			<name>Kate Coady</name>
+		</author>
+		<summary type="html">&lt;p&gt;Grey Dog Tales has &lt;a href=&quot;http://greydogtales.com/blog/?p=1538&quot; target=&quot;_blank&quot;&gt;an interview with actor Dan Starkey&lt;/a&gt;, who's recently given an audio performance as Carnacki.&lt;/p&gt;
+&lt;p&gt;Previous articles over there this month concern Lovecraftianian fiction and more amusing canine material.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Grey Dog Tales has &lt;a href=&quot;http://greydogtales.com/blog/?p=1538&quot; target=&quot;_blank&quot;&gt;an interview with actor Dan Starkey&lt;/a&gt;, who's recently given an audio performance as Carnacki.&lt;/p&gt;
+&lt;p&gt;Previous articles over there this month concern Lovecraftianian fiction and more amusing canine material.&lt;/p&gt;</content>
+		<category term="Grey Dog Tales Interviews Dan Starkey" />
+	</entry>
+	<entry>
+		<title>Grey Dog Tales' Hodgson Month — Conclusion</title>
+		<link rel="alternate" type="text/html" href="https://nightland.website/index.php/journal/30-news/237-grey-dog-tales-hodgson-month-conclusion"/>
+		<published>2015-11-04T00:34:58+00:00</published>
+		<updated>2015-11-04T00:34:58+00:00</updated>
+		<id>https://nightland.website/index.php/journal/30-news/237-grey-dog-tales-hodgson-month-conclusion</id>
+		<author>
+			<name>Kate Coady</name>
+		</author>
+		<summary type="html">&lt;p&gt;John Linwood Grant of Grey Dog Tales has finished up a month-long celebration of William Hope Hodgson with several posts of interest.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://greydogtales.com/blog/?p=452&quot; target=&quot;_blank&quot;&gt;The Writer on the Borderland 9: An Editor Calls&lt;/a&gt; has, among other things:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A link to Alfred Hitchcock's production of Mr. Hodgson's sea horror story &quot;A Voice in the Night&quot;;&lt;/li&gt;
+&lt;li&gt;Links and reproduced critical material;&lt;/li&gt;
+&lt;li&gt;A reprint of James Bojaciuk's essay &quot;A Concluding Oink&quot;, from &lt;span class=&quot;magazine-title&quot;&gt;Sargasso: The Journal of William Hope Hodgson Studies&lt;/span&gt; No. 2, discussing the Hog (from &lt;a href=&quot;http://www.forgottenfutures.com/game/ff4/hog.htm&quot; target=&quot;_blank&quot;&gt;the Carnacki story&lt;/a&gt;) and the swine-things from &lt;span class=&quot;book-title&quot;&gt;The House on the Borderland.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;http://greydogtales.com/blog/?p=480&quot; target=&quot;_blank&quot;&gt;The Writer on the Borderland 10: He's Alive, Jim&lt;/a&gt; includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&quot;The Strange Case of the Books in the Night&quot;, an essay by &lt;a href=&quot;http://williamhopehodgson.wordpress.com/&quot; target=&quot;_blank&quot;&gt;Sam Gafford&lt;/a&gt; explaining how H. C. Koenig's efforts prevented Mr. Hodgson's work from being forgotten. (Mr. Koenig is &lt;a href=&quot;https://nightland.website/index.php/background/essays/198-h-p-lovecraft-letters-mentioning-william-hope-hodgson&quot; target=&quot;_blank&quot;&gt;mentioned in H. P. Lovecraft's letters&lt;/a&gt; for loaning Mr. Hodgson's books.)&lt;/li&gt;
+&lt;li&gt;Another essay by Mr. Bojaciuk discussing the identity of Thomas Carnacki's father.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;http://greydogtales.com/blog/?p=500&quot; target=&quot;_blank&quot;&gt;William Hope Hodgson 11: Critical Voices&lt;/a&gt; includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;An interesting interview with Sam Gafford&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;http://greydogtales.com/blog/?p=511&quot; target=&quot;_blank&quot;&gt;The Writer on the Borderland 12: All Hallows' Exhaustion&lt;/a&gt; includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A link to three Carnacki audiobooks narrated by David Ian Davies and published by Blackstone Audio.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Blackstone Audio has &lt;a href=&quot;http://www.downpour.com/catalogsearch/advanced/byAuthor/author/William+Hope+Hodgson/?bioid=16407&quot; target=&quot;_blank&quot;&gt;another Carnacki story and &lt;span class=&quot;book-title&quot;&gt;The Night Land&lt;/span&gt; too&lt;/a&gt;, for surprisingly affordable prices.&lt;/p&gt;
+&lt;p&gt;Grey Dog Tales also has &lt;a href=&quot;http://greydogtales.com/blog/?page_id=204&quot; target=&quot;_blank&quot;&gt;a gallery of cover art for Mr. Hodgson's works&lt;/a&gt;, and in many cases, his photos are of less-beat-up books than ours are.&lt;/p&gt;
+&lt;p&gt;Incidentally, Mr. Grant's longdog posts are frequently hilarious.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;John Linwood Grant of Grey Dog Tales has finished up a month-long celebration of William Hope Hodgson with several posts of interest.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://greydogtales.com/blog/?p=452&quot; target=&quot;_blank&quot;&gt;The Writer on the Borderland 9: An Editor Calls&lt;/a&gt; has, among other things:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A link to Alfred Hitchcock's production of Mr. Hodgson's sea horror story &quot;A Voice in the Night&quot;;&lt;/li&gt;
+&lt;li&gt;Links and reproduced critical material;&lt;/li&gt;
+&lt;li&gt;A reprint of James Bojaciuk's essay &quot;A Concluding Oink&quot;, from &lt;span class=&quot;magazine-title&quot;&gt;Sargasso: The Journal of William Hope Hodgson Studies&lt;/span&gt; No. 2, discussing the Hog (from &lt;a href=&quot;http://www.forgottenfutures.com/game/ff4/hog.htm&quot; target=&quot;_blank&quot;&gt;the Carnacki story&lt;/a&gt;) and the swine-things from &lt;span class=&quot;book-title&quot;&gt;The House on the Borderland.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;http://greydogtales.com/blog/?p=480&quot; target=&quot;_blank&quot;&gt;The Writer on the Borderland 10: He's Alive, Jim&lt;/a&gt; includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&quot;The Strange Case of the Books in the Night&quot;, an essay by &lt;a href=&quot;http://williamhopehodgson.wordpress.com/&quot; target=&quot;_blank&quot;&gt;Sam Gafford&lt;/a&gt; explaining how H. C. Koenig's efforts prevented Mr. Hodgson's work from being forgotten. (Mr. Koenig is &lt;a href=&quot;https://nightland.website/index.php/background/essays/198-h-p-lovecraft-letters-mentioning-william-hope-hodgson&quot; target=&quot;_blank&quot;&gt;mentioned in H. P. Lovecraft's letters&lt;/a&gt; for loaning Mr. Hodgson's books.)&lt;/li&gt;
+&lt;li&gt;Another essay by Mr. Bojaciuk discussing the identity of Thomas Carnacki's father.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;http://greydogtales.com/blog/?p=500&quot; target=&quot;_blank&quot;&gt;William Hope Hodgson 11: Critical Voices&lt;/a&gt; includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;An interesting interview with Sam Gafford&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;http://greydogtales.com/blog/?p=511&quot; target=&quot;_blank&quot;&gt;The Writer on the Borderland 12: All Hallows' Exhaustion&lt;/a&gt; includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A link to three Carnacki audiobooks narrated by David Ian Davies and published by Blackstone Audio.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Blackstone Audio has &lt;a href=&quot;http://www.downpour.com/catalogsearch/advanced/byAuthor/author/William+Hope+Hodgson/?bioid=16407&quot; target=&quot;_blank&quot;&gt;another Carnacki story and &lt;span class=&quot;book-title&quot;&gt;The Night Land&lt;/span&gt; too&lt;/a&gt;, for surprisingly affordable prices.&lt;/p&gt;
+&lt;p&gt;Grey Dog Tales also has &lt;a href=&quot;http://greydogtales.com/blog/?page_id=204&quot; target=&quot;_blank&quot;&gt;a gallery of cover art for Mr. Hodgson's works&lt;/a&gt;, and in many cases, his photos are of less-beat-up books than ours are.&lt;/p&gt;
+&lt;p&gt;Incidentally, Mr. Grant's longdog posts are frequently hilarious.&lt;/p&gt;</content>
+		<category term="Grey Dog Tales' Hodgson Month — Conclusion" />
+	</entry>
+	<entry>
+		<title>More Carnacki</title>
+		<link rel="alternate" type="text/html" href="https://nightland.website/index.php/journal/30-news/253-more-carnacki"/>
+		<published>2016-07-20T23:49:37+00:00</published>
+		<updated>2016-07-20T23:49:37+00:00</updated>
+		<id>https://nightland.website/index.php/journal/30-news/253-more-carnacki</id>
+		<author>
+			<name>Kate Coady</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img class=&quot;float-left-blog-illo&quot; src=&quot;https://nightland.website/images/journal-others-illos/corley-carnacki-intro-page-400x589.png&quot; alt=&quot;Intro page of Carnacki, Recorder of Things Strange&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;M.S. Corley is working on a comic called &lt;a href=&quot;http://thomascarnacki.tumblr.com/&quot; target=&quot;_blank&quot;&gt;Carnacki, Recorder of Things Strange&lt;/a&gt;. He's planning to release the first volume later this year. It looks quite good (obviously).&lt;/p&gt;
+&lt;p&gt;John Linwood Grant has &lt;a href=&quot;http://greydogtales.com/blog/?p=2490&quot; target=&quot;_blank&quot;&gt;a new post on Carnacki at Grey Dog Tales&lt;/a&gt; which gives a good list of the new Carnacki stories published; and he also discusses Thomas Carnacki as a character with more human weakness than one commonly finds in the occult detective genre.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img class=&quot;float-left-blog-illo&quot; src=&quot;https://nightland.website/images/journal-others-illos/corley-carnacki-intro-page-400x589.png&quot; alt=&quot;Intro page of Carnacki, Recorder of Things Strange&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;M.S. Corley is working on a comic called &lt;a href=&quot;http://thomascarnacki.tumblr.com/&quot; target=&quot;_blank&quot;&gt;Carnacki, Recorder of Things Strange&lt;/a&gt;. He's planning to release the first volume later this year. It looks quite good (obviously).&lt;/p&gt;
+&lt;p&gt;John Linwood Grant has &lt;a href=&quot;http://greydogtales.com/blog/?p=2490&quot; target=&quot;_blank&quot;&gt;a new post on Carnacki at Grey Dog Tales&lt;/a&gt; which gives a good list of the new Carnacki stories published; and he also discusses Thomas Carnacki as a character with more human weakness than one commonly finds in the occult detective genre.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+		<category term="More Carnacki" />
+	</entry>
+	<entry>
+		<title>More Carnacki from Grey Dog Tales</title>
+		<link rel="alternate" type="text/html" href="https://nightland.website/index.php/journal/30-news/232-more-carnacki-from-grey-dog-tales"/>
+		<published>2015-10-20T00:45:42+00:00</published>
+		<updated>2015-10-20T00:45:42+00:00</updated>
+		<id>https://nightland.website/index.php/journal/30-news/232-more-carnacki-from-grey-dog-tales</id>
+		<author>
+			<name>Kate Coady</name>
+		</author>
+		<summary type="html">&lt;p&gt;Grey Dog Tales' celebration of William Hope Hodson continues with a gracious mention of the Night Land website, and other items of interest, including &lt;a href=&quot;http://greydogtales.com/blog/?p=369&quot; target=&quot;_blank&quot;&gt;interviews with Chico Kidd (A.F. Kidd) and William Meikle&lt;/a&gt;, and &lt;a href=&quot;http://greydogtales.com/blog/?p=416&quot; target=&quot;_blank&quot;&gt;a new Carnacki story by J. Patrick Allen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Carnacki readers may remember Ms. Kidd and Rick Kennett as the authors of &lt;span class=&quot;book-title&quot;&gt;No. 472 Cheyne Walk: Carnacki, the Untold Stories,&lt;/span&gt; published by &lt;a href=&quot;http://www.ash-tree.bc.ca/eBooks.htm&quot; target=&quot;_blank&quot;&gt;Ash Tree Press&lt;/a&gt; — a collection of Carnacki pastiche. The stories include incidents Carnacki referred to in Mr. Hodgson's original tales, but were never related in full.&lt;/p&gt;
+&lt;p&gt;William Meikle has also published Carnacki stories, in two volumes: &lt;span class=&quot;book-title&quot;&gt;Carnacki: Heaven and Hell,&lt;/span&gt; from &lt;a href=&quot;http://www.darkregions.com/books/carnacki-heaven-and-hell-by-william-meikle&quot; target=&quot;_blank&quot;&gt;Dark Regions Press&lt;/a&gt;, and &lt;span class=&quot;book-title&quot;&gt;Carnacki: The Watcher at the Gate,&lt;/span&gt; from &lt;a href=&quot;http://darkrenaissance.com/product/carnacki-the-watcher-at-the-gate-and-other-stories&quot; target=&quot;_blank&quot;&gt;Dark Renaissance Books&lt;/a&gt;. The latter is currently published in a hardcover edition. eBook and paper are apparently planned but not yet available.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Grey Dog Tales' celebration of William Hope Hodson continues with a gracious mention of the Night Land website, and other items of interest, including &lt;a href=&quot;http://greydogtales.com/blog/?p=369&quot; target=&quot;_blank&quot;&gt;interviews with Chico Kidd (A.F. Kidd) and William Meikle&lt;/a&gt;, and &lt;a href=&quot;http://greydogtales.com/blog/?p=416&quot; target=&quot;_blank&quot;&gt;a new Carnacki story by J. Patrick Allen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Carnacki readers may remember Ms. Kidd and Rick Kennett as the authors of &lt;span class=&quot;book-title&quot;&gt;No. 472 Cheyne Walk: Carnacki, the Untold Stories,&lt;/span&gt; published by &lt;a href=&quot;http://www.ash-tree.bc.ca/eBooks.htm&quot; target=&quot;_blank&quot;&gt;Ash Tree Press&lt;/a&gt; — a collection of Carnacki pastiche. The stories include incidents Carnacki referred to in Mr. Hodgson's original tales, but were never related in full.&lt;/p&gt;
+&lt;p&gt;William Meikle has also published Carnacki stories, in two volumes: &lt;span class=&quot;book-title&quot;&gt;Carnacki: Heaven and Hell,&lt;/span&gt; from &lt;a href=&quot;http://www.darkregions.com/books/carnacki-heaven-and-hell-by-william-meikle&quot; target=&quot;_blank&quot;&gt;Dark Regions Press&lt;/a&gt;, and &lt;span class=&quot;book-title&quot;&gt;Carnacki: The Watcher at the Gate,&lt;/span&gt; from &lt;a href=&quot;http://darkrenaissance.com/product/carnacki-the-watcher-at-the-gate-and-other-stories&quot; target=&quot;_blank&quot;&gt;Dark Renaissance Books&lt;/a&gt;. The latter is currently published in a hardcover edition. eBook and paper are apparently planned but not yet available.&lt;/p&gt;</content>
+		<category term="More Carnacki from Grey Dog Tales" />
+	</entry>
+	<entry>
+		<title>Other William Hope Hodgson Links</title>
+		<link rel="alternate" type="text/html" href="https://nightland.website/index.php/background/links/187-other-william-hope-hodgson-links"/>
+		<published>2015-07-10T23:52:58+00:00</published>
+		<updated>2015-07-10T23:52:58+00:00</updated>
+		<id>https://nightland.website/index.php/background/links/187-other-william-hope-hodgson-links</id>
+		<author>
+			<name>Kate Coady</name>
+		</author>
+		<summary type="html">&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;https://williamhopehodgson.wordpress.com/&quot; target=&quot;_blank&quot;&gt;William Hope Hodgson blog&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Sam Gafford's excellent blog.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.forgottenfutures.com/game/ff4&quot; target=&quot;_blank&quot;&gt;Forgotten Futures Carnacki Worldbook&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;This RPG gaming resource by Marcus L. Rowland is a fascinating attempt to systematise the &quot;Abnatural&quot; elements in the Carnacki stories. Also has the Carnacki stories themselves.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.freenetpages.co.uk/hp/chrishodgson/carnacki_cinema/index.htm&quot; target=&quot;_blank&quot;&gt;The Carnacki Cinematograph&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;A fine flash site on Carnacki.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.facebook.com/groups/265816260185326/&quot; target=&quot;_blank&quot;&gt;William Hope Hodgson Enthusiasts&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Almost worth enduring Facebook for.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.facebook.com/groups/56804160665/&quot; target=&quot;_blank&quot;&gt;William Hope Hodgson's 'The Night Land'&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;A newer Facebook group devoted to Mr. Hodgson's magnum opus.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;http://alangullette.com/lit/hodgson/&quot; target=&quot;_blank&quot;&gt;William Hope Hodgson&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Alan Gullette's excellent page on this writer: contains several essays and much biographical and bibliographical material; a must-read.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.eldritchdark.com/writings/nonfiction/6&quot; target=&quot;_blank&quot;&gt;Clark Ashton Smith&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;His appreciation of Hodgson.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;http://greatsfandf.com/AUTHORS/WilliamHopeHodgson.php&quot; target=&quot;_blank&quot;&gt;Great SF&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The Great SF page on Hodgson.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.angelfire.com/biz/hobgoblinpress/&quot; target=&quot;_blank&quot;&gt;Hobgoblin Press&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;A small press that produces rare books by Hodgson, as well as some other writers of fantastic horror.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.nightshadebooks.com/book_authors/william-hope-hodgson/&quot; target=&quot;_blank&quot;&gt;Night Shade Books&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;A page on their Collected Works, a five-volume set.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;http://wildsidepress.com/authors-h-i/hodgson-william-hope/&quot; target=&quot;_blank&quot;&gt;Wildside Press&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The part of their fantasy classics subsection devoted to Hodgson.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.coolfrenchcomics.com/hodgson.htm&quot; target=&quot;_blank&quot;&gt;Philippe Druillet's illustrations&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;For several of Hodgson's novels.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;http://hourslips.wordpress.com/&quot; target=&quot;_blank&quot;&gt;The Hour Slips&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;A fan site by &lt;a href=&quot;https://nightland.website/index.php/about/authors-and-artists/114-banks-miller&quot;&gt;Banks Miller&lt;/a&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.thenightland.com/&quot; target=&quot;_blank&quot;&gt;The NIGHTLAND&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Raymond C Leung's art-based Night Land fan site.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;https://williamhopehodgson.wordpress.com/&quot; target=&quot;_blank&quot;&gt;William Hope Hodgson blog&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Sam Gafford's excellent blog.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.forgottenfutures.com/game/ff4&quot; target=&quot;_blank&quot;&gt;Forgotten Futures Carnacki Worldbook&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;This RPG gaming resource by Marcus L. Rowland is a fascinating attempt to systematise the &quot;Abnatural&quot; elements in the Carnacki stories. Also has the Carnacki stories themselves.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.freenetpages.co.uk/hp/chrishodgson/carnacki_cinema/index.htm&quot; target=&quot;_blank&quot;&gt;The Carnacki Cinematograph&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;A fine flash site on Carnacki.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.facebook.com/groups/265816260185326/&quot; target=&quot;_blank&quot;&gt;William Hope Hodgson Enthusiasts&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Almost worth enduring Facebook for.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.facebook.com/groups/56804160665/&quot; target=&quot;_blank&quot;&gt;William Hope Hodgson's 'The Night Land'&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;A newer Facebook group devoted to Mr. Hodgson's magnum opus.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;http://alangullette.com/lit/hodgson/&quot; target=&quot;_blank&quot;&gt;William Hope Hodgson&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Alan Gullette's excellent page on this writer: contains several essays and much biographical and bibliographical material; a must-read.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.eldritchdark.com/writings/nonfiction/6&quot; target=&quot;_blank&quot;&gt;Clark Ashton Smith&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;His appreciation of Hodgson.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;http://greatsfandf.com/AUTHORS/WilliamHopeHodgson.php&quot; target=&quot;_blank&quot;&gt;Great SF&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The Great SF page on Hodgson.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.angelfire.com/biz/hobgoblinpress/&quot; target=&quot;_blank&quot;&gt;Hobgoblin Press&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;A small press that produces rare books by Hodgson, as well as some other writers of fantastic horror.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.nightshadebooks.com/book_authors/william-hope-hodgson/&quot; target=&quot;_blank&quot;&gt;Night Shade Books&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;A page on their Collected Works, a five-volume set.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;http://wildsidepress.com/authors-h-i/hodgson-william-hope/&quot; target=&quot;_blank&quot;&gt;Wildside Press&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The part of their fantasy classics subsection devoted to Hodgson.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.coolfrenchcomics.com/hodgson.htm&quot; target=&quot;_blank&quot;&gt;Philippe Druillet's illustrations&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;For several of Hodgson's novels.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;http://hourslips.wordpress.com/&quot; target=&quot;_blank&quot;&gt;The Hour Slips&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;A fan site by &lt;a href=&quot;https://nightland.website/index.php/about/authors-and-artists/114-banks-miller&quot;&gt;Banks Miller&lt;/a&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.thenightland.com/&quot; target=&quot;_blank&quot;&gt;The NIGHTLAND&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Raymond C Leung's art-based Night Land fan site.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+		<category term="Other William Hope Hodgson Links" />
+	</entry>
+	<entry>
+		<title>Sharks of the Ether</title>
+		<link rel="alternate" type="text/html" href="https://nightland.website/index.php/background/essays/andy-robertson-s-night-land-essays/172-sharks-of-the-ether"/>
+		<published>2015-07-01T03:14:13+00:00</published>
+		<updated>2015-07-01T03:14:13+00:00</updated>
+		<id>https://nightland.website/index.php/background/essays/andy-robertson-s-night-land-essays/172-sharks-of-the-ether</id>
+		<author>
+			<name>Kate Coady</name>
+		</author>
+		<summary type="html">&lt;h3 class=&quot;story-teaser&quot;&gt;Immortality, Reincarnation, and Psychic Predation within a Science-Fictional Framework in Hodgson's Fiction&lt;/h3&gt;
+&lt;h3 class=&quot;story-teaser&quot;&gt;By &lt;a href=&quot;https://nightland.website/index.php/about/authors-and-artists/107-andy-robertson&quot;&gt;Andy Robertson&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;story-intro&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/background/essays/172-sharks-of-the-ether&quot;&gt;&lt;img class=&quot;story-thumb&quot; src=&quot;https://nightland.website/images/thumbs/strang-joshua-usaf-aurora-public-domain-thumb.jpg&quot; alt=&quot;A blue-green-aurora swirling over a snowy landscape&quot; /&gt;&lt;/a&gt;
+&lt;p class=&quot;article-teaser&quot;&gt;Hodgson's work assumes humans have an immortal, immaterial component which is constantly reincarnated in successive bodies, and is potentially the prey of larger and more powerful entities. I will argue that Hodgson has carefully worked this out within a consistent and rational science-fictional framework which merely borrows the background colouration of religious or occult superstition: and that in making this confusion, Hodgson was attempting a poetic reconciliation of scientific and religious views of the human condition.&lt;/p&gt;
+&lt;/div&gt;
+</summary>
+		<content type="html">&lt;h3 class=&quot;story-teaser&quot;&gt;Immortality, Reincarnation, and Psychic Predation within a Science-Fictional Framework in Hodgson's Fiction&lt;/h3&gt;
+&lt;h3 class=&quot;story-teaser&quot;&gt;By &lt;a href=&quot;https://nightland.website/index.php/about/authors-and-artists/107-andy-robertson&quot;&gt;Andy Robertson&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;story-intro&quot;&gt;&lt;a href=&quot;https://nightland.website/index.php/background/essays/172-sharks-of-the-ether&quot;&gt;&lt;img class=&quot;story-thumb&quot; src=&quot;https://nightland.website/images/thumbs/strang-joshua-usaf-aurora-public-domain-thumb.jpg&quot; alt=&quot;A blue-green-aurora swirling over a snowy landscape&quot; /&gt;&lt;/a&gt;
+&lt;p class=&quot;article-teaser&quot;&gt;Hodgson's work assumes humans have an immortal, immaterial component which is constantly reincarnated in successive bodies, and is potentially the prey of larger and more powerful entities. I will argue that Hodgson has carefully worked this out within a consistent and rational science-fictional framework which merely borrows the background colouration of religious or occult superstition: and that in making this confusion, Hodgson was attempting a poetic reconciliation of scientific and religious views of the human condition.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+		<category term="Sharks of the Ether" />
+	</entry>
+	<entry>
+		<title>The Yellow Booke &amp; Carnacki</title>
+		<link rel="alternate" type="text/html" href="https://nightland.website/index.php/journal/30-news/240-the-yellow-booke-carnacki"/>
+		<published>2016-01-08T19:10:09+00:00</published>
+		<updated>2016-01-08T19:10:09+00:00</updated>
+		<id>https://nightland.website/index.php/journal/30-news/240-the-yellow-booke-carnacki</id>
+		<author>
+			<name>Kate Coady</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;http://www.oldstyletales.com/&quot; target=&quot;_blank&quot;&gt;Oldstyle Tales Press&lt;/a&gt; are publishing an annual anthology of horror, ghost stories and weird fiction called &lt;span class=&quot;book-title&quot;&gt;&lt;a href=&quot;http://www.oldstyletales.com/#!the-yellow-booke---your-annual-journal/czkv&quot; target=&quot;_blank&quot;&gt;The Yellow Booke&lt;/a&gt;&lt;/span&gt;. You can download the PDFs for free, or buy the books at Amazon. There are two volumes available, for 2014 and 2015.&lt;/p&gt;
+&lt;p&gt;Volume II (the 2015 book) has a Carnacki story by Taral Wayne. I'm posting before I've had a chance to read it, but the opening looks promising and I'm looking forward to it.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;http://www.oldstyletales.com/&quot; target=&quot;_blank&quot;&gt;Oldstyle Tales Press&lt;/a&gt; are publishing an annual anthology of horror, ghost stories and weird fiction called &lt;span class=&quot;book-title&quot;&gt;&lt;a href=&quot;http://www.oldstyletales.com/#!the-yellow-booke---your-annual-journal/czkv&quot; target=&quot;_blank&quot;&gt;The Yellow Booke&lt;/a&gt;&lt;/span&gt;. You can download the PDFs for free, or buy the books at Amazon. There are two volumes available, for 2014 and 2015.&lt;/p&gt;
+&lt;p&gt;Volume II (the 2015 book) has a Carnacki story by Taral Wayne. I'm posting before I've had a chance to read it, but the opening looks promising and I'm looking forward to it.&lt;/p&gt;</content>
+		<category term="The Yellow Booke &amp; Carnacki" />
+	</entry>
+	<entry>
+		<title>William Meikle's New Novella Pentacle</title>
+		<link rel="alternate" type="text/html" href="https://nightland.website/index.php/journal/30-news/231-william-meikle-s-new-novella-pentacle"/>
+		<published>2015-10-15T14:47:00+00:00</published>
+		<updated>2015-10-15T14:47:00+00:00</updated>
+		<id>https://nightland.website/index.php/journal/30-news/231-william-meikle-s-new-novella-pentacle</id>
+		<author>
+			<name>Kate Coady</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img class=&quot;float-left-blog-illo&quot; src=&quot;https://nightland.website/images/thumbs/meikle-pentacle-cover-lgthumb.jpg&quot; alt=&quot;A book cover showing a red-lipentacle&quot; /&gt;William Meikle, who has published other Carnacki stories I'll mention later, has written a novella, &lt;span class=&quot;book-title&quot;&gt;Pentacle.&lt;/span&gt; The teaser reads:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;There are houses like this all over the world. Most people only know of them from whispered stories over campfires; tall tales told to scare the unwary. But some—those who suffer—know better. They are drawn to these places to ease their pain. If you have the will, the fortitude, you can peer into another life, where the dead are not gone, where your love might live forever.&lt;/p&gt;
+&lt;p&gt;But that’s not the case for the residents of the Edinburgh house, for something has disturbed the quiet reflection in that old building. A creature has slipped through, sniffling and snuffling in all the dark places, disrupting the balance of time and space.&lt;/p&gt;
+&lt;p&gt;And it's John’s job to fix it…by any means necessary. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The titular pentacle is one some of you will have read about before.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;book-title&quot;&gt;Pentacle&lt;/span&gt; is available as &lt;a href=&quot;http://www.amazon.com/Pentacle-William-Meikle-ebook/dp/B015NCL4NQ/&quot; target=&quot;_blank&quot;&gt;an ebook at Amazon&lt;/a&gt; and also as &lt;a href=&quot;http://www.darkfuseshop.com/PENTACLE-by-William-Meikle-Kindle-Limited-HC.html&quot; target=&quot;_blank&quot;&gt;a limited edition hardcover&lt;/a&gt;. It's published by Dark Fuse.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img class=&quot;float-left-blog-illo&quot; src=&quot;https://nightland.website/images/thumbs/meikle-pentacle-cover-lgthumb.jpg&quot; alt=&quot;A book cover showing a red-lipentacle&quot; /&gt;William Meikle, who has published other Carnacki stories I'll mention later, has written a novella, &lt;span class=&quot;book-title&quot;&gt;Pentacle.&lt;/span&gt; The teaser reads:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;There are houses like this all over the world. Most people only know of them from whispered stories over campfires; tall tales told to scare the unwary. But some—those who suffer—know better. They are drawn to these places to ease their pain. If you have the will, the fortitude, you can peer into another life, where the dead are not gone, where your love might live forever.&lt;/p&gt;
+&lt;p&gt;But that’s not the case for the residents of the Edinburgh house, for something has disturbed the quiet reflection in that old building. A creature has slipped through, sniffling and snuffling in all the dark places, disrupting the balance of time and space.&lt;/p&gt;
+&lt;p&gt;And it's John’s job to fix it…by any means necessary. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The titular pentacle is one some of you will have read about before.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;book-title&quot;&gt;Pentacle&lt;/span&gt; is available as &lt;a href=&quot;http://www.amazon.com/Pentacle-William-Meikle-ebook/dp/B015NCL4NQ/&quot; target=&quot;_blank&quot;&gt;an ebook at Amazon&lt;/a&gt; and also as &lt;a href=&quot;http://www.darkfuseshop.com/PENTACLE-by-William-Meikle-Kindle-Limited-HC.html&quot; target=&quot;_blank&quot;&gt;a limited edition hardcover&lt;/a&gt;. It's published by Dark Fuse.&lt;/p&gt;</content>
+		<category term="William Meikle's New Novella Pentacle" />
+	</entry>
+</feed>
